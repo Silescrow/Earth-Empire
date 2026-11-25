@@ -68,3 +68,4 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.13 – Berge deutlich höher (Schneegrenze höher), mehr Wälder und einzelne Bäume, Bodenbewuchs (Grasbüschel, Blumen, Sträucher, Steinchen), Welt wird so weit gefüllt, wie man sehen kann; Stadtzentrum bleibt frei
 - [x] V1.14 – Leistung: Bäume und Bodenbewuchs je Sorte in einem Zeichenaufruf (statt Hunderten), Bäume in der Ferne vereinfacht (LOD), Schatten nur von nahen Bäumen, Beeren und Goldnuggets verschmolzen – Zeichenaufrufe von über 400 auf etwa 100
 - [x] V1.15 – Hauptmenü: „Weiterspielen“ (laufendes Spiel bleibt erhalten) und „Neues Spiel“; im Pausemenü „Neu starten“
+- [x] V1.16 – automatisch Vollbild (und quer) beim ersten Tipp im Ladebildschirm
