@@ -70,3 +70,4 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.15 – Hauptmenü: „Weiterspielen“ (laufendes Spiel bleibt erhalten) und „Neues Spiel“; im Pausemenü „Neu starten“
 - [x] V1.16 – automatisch Vollbild (und quer) beim ersten Tipp im Ladebildschirm
 - [x] V1.17 – Länder wie in Empire Earth 2: Welt in feste Gebiete aufgeteilt, Stadtzentrum im Nachbargebiet erweitert dein Land, sichtbare Landesgrenzen (Teamfarbe, freie Gebiete grau), Bauen außerhalb dauert 3× so lange, max. 6 Hütten pro Gebiet, Heimvorteil +15 % Schaden; weniger Bäume/Gras, Waldstücke mit Lücken
+- [x] V1.18 – Spielstand wird automatisch gespeichert (alle 30 s, beim Menü, beim Schließen); im Hauptmenü immer „Weiterspielen“ und „Neu starten“
