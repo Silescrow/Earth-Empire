@@ -72,3 +72,4 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.17 – Länder wie in Empire Earth 2: Welt in feste Gebiete aufgeteilt, Stadtzentrum im Nachbargebiet erweitert dein Land, sichtbare Landesgrenzen (Teamfarbe, freie Gebiete grau), Bauen außerhalb dauert 3× so lange, max. 6 Hütten pro Gebiet, Heimvorteil +15 % Schaden; weniger Bäume/Gras, Waldstücke mit Lücken
 - [x] V1.18 – Spielstand wird automatisch gespeichert (alle 30 s, beim Menü, beim Schließen); im Hauptmenü immer „Weiterspielen“ und „Neu starten“
 - [x] V1.19 – Landesgrenzen als ganz dünne weiße Linien
+- [x] V1.20 – Landesgrenzen als kleine Holzpfosten in der Flaggenfarbe jedes Volkes (nur um eroberte Gebiete, niedrig während ein Stadtzentrum entsteht)
