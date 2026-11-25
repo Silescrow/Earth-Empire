@@ -75,3 +75,4 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.20 – Landesgrenzen als kleine Holzpfosten in der Flaggenfarbe jedes Volkes (nur um eroberte Gebiete, niedrig während ein Stadtzentrum entsteht)
 - [x] V1.21 – Grenzpfosten halb so groß und dichter gesetzt
 - [x] V1.22 – keine weißen Linien mehr (frei = keine Pfosten), beim Platzieren eines Stadtzentrums wird das Gebiet umrandet (grün/rot), Weiterspielen-Fix: Dateien mit Versionsnummer, damit das Handy keine alten Dateien nimmt
+- [x] V1.23 – Stadtzentrum: Meldung welche Rohstoffe fehlen (statt stillem Abbruch), ohne ausgewählte Arbeiter gehen die nächsten 3 Arbeiter bauen, Meldung „wird gebaut“
