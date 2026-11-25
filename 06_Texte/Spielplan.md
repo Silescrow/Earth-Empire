@@ -37,7 +37,8 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 - [x] V1.04 – Höhlenmenschen mit automatischem Skelett, Größen abgestimmt
 - [x] V1.05 – Palisade selbst bauen (Linie ziehen, Tor), kein automatischer Zaun mehr; wehende Fahnen; eigene Musik (Hauptthema durchgehend Ladebildschirm→Menü, ruhige Spielmusik) und Spielgeräusche; Gegner zufällig an echten Orten mit Mindestabstand
 - [x] V1.06 – lückenloser Steinzeit-Zaun (Knochen-Zaun G), Lagerfeuer mit Flammen, Lichtschein und Rauch, Fahne nur mit Wappen (ohne Rand)
-- [ ] V1.07 – Sprachen: Deutsch, Englisch, Türkisch
+- [x] V1.07 – Welt 3–5× größer (1000/1500/2000/2600 breit), Natur in Chunks, Startorte mit viel Land drumherum, mehr Abstand zwischen Völkern, Hauptgebäude = große Rundhütte
+- [ ] V1.08 – Sprachen: Deutsch, Englisch, Türkisch
 - [ ] Kaserne bauen, Soldaten gegen Ressourcen ausbilden, Kampf; Gruppen 1–3, Knopf „Alle Krieger“, Palisadenmauer
 - [ ] Schiffe (Hafen, Transport) für andere Kontinente
 - [ ] Diplomatie wie Empire Earth II: Krieg/Frieden/Allianz, Verträge, Territorien, Handelsrouten, Kriegsplaner

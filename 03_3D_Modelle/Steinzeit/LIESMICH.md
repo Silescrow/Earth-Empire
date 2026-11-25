@@ -4,8 +4,8 @@ Aus deinen Meshy-Modellen für Earth Empire verkleinert (wenige Tausend Dreiecke
 
 | Datei | Im Spiel | Original aus Meshy |
 |---|---|---|
-| knochenhuette.glb | Stadtzentrum | Meshy_AI_Hut_20260325 |
-| rundhuette.glb | Hütte (Wohnhaus) | Meshy_AI_…_20250907 |
+| knochenhuette.glb | (früher Stadtzentrum, jetzt nicht mehr benutzt) | Meshy_AI_Hut_20260325 |
+| rundhuette.glb | Hütte (Wohnhaus) und – doppelt so groß – Stadtzentrum | Meshy_AI_…_20250907 |
 | steinhaus.glb | Lager | Meshy_AI_La_maison_de_l_age_de_pierre_20250429 |
 | zahnhaus.glb | Kaserne (kommt bald) | Meshy_AI_House_of_Teeth_20260426 |
 | zaun.glb | Palisade ums Stadtzentrum | Meshy_AI_damaged_wooden_fence_20250416 |
