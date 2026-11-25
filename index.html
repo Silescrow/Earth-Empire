@@ -77,7 +77,8 @@ input[type=range]{width:100%;accent-color:var(--gold);height:30px}
   background:#0b1130ee;border:1.5px solid var(--gold);color:var(--gold2);font-weight:700;transition:opacity .3s;white-space:nowrap}
 
 @media (orientation:portrait){
-  #menu .bg{background-position:22% center}
+  #menu::before{content:"";position:absolute;inset:-40px;background:url(menue.jpg) 30% center/cover;filter:blur(18px) brightness(.6)}
+  #menu .bg{background:url(menue.jpg) center top/100% auto no-repeat;top:max(8vh,env(safe-area-inset-top));animation:none}
   #menu .shade{background:linear-gradient(180deg,transparent 40%,#0a0f22d0 75%)}
   .panel{left:6vw;right:6vw;width:auto;top:auto;bottom:calc(5vh + env(safe-area-inset-bottom));transform:none}
   .btn{font-size:clamp(15px,2.4vh,20px)}
