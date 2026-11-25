@@ -1,8 +1,7 @@
 # Musik
 
-Die Musik wird im Spiel selbst erzeugt (`audio.js`, kein Suno nötig):
-- **Menümusik** „Where the Morning Breathes“ (`Where_the_Morning_Breathes.mp3`, im Spiel als `musik_menue.mp3` mit 128 kbit/s): startet im Ladebildschirm beim ersten Tippen, läuft im Hauptmenü in Schleife und stoppt beim Spielstart
-- **Hauptthema** (D-Moll, Taiko-Trommeln, Streicher, Hörner, Chor): Ersatz, falls die MP3 nicht geladen werden kann
-- **Ruhige Spielmusik Steinzeit**: gleiche Melodie mit Flöte, Handtrommeln, Rassel und Klangteppich
+Musik von Suno als MP3, abgespielt über `audio.js` (dort entstehen auch die Geräusche):
+- **Menümusik** „Crowns upon the Horizon“ (`Crowns_upon_the_Horizon.mp3`, im Spiel als `musik_menue.mp3` mit 128 kbit/s): startet im Ladebildschirm beim ersten Tippen und läuft im Hauptmenü in Schleife
+- **Spielmusik** „Before the Written Word“ (`Before_the_Written_Word.mp3`, im Spiel als `musik_spiel.mp3`): läuft während des Spiels in Schleife
 
-Später können echte Musikstücke (z. B. von Suno Pro) hier als MP3 abgelegt und eingebaut werden.
+Weitere Spiellieder einfach hier ablegen – sie wechseln sich dann im Spiel ab.

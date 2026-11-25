@@ -25,3 +25,22 @@ Aus deinen Meshy-Modellen für Earth Empire verkleinert (wenige Tausend Dreiecke
 Die Originale sind zu groß für GitHub (bis 320 MB pro Datei).
 Höhlenmann und -frau bekommen ihr Skelett automatisch im Spiel (Auto-Rig per Code: Stehen, Laufen, Arbeiten).
 Osmanen-Figuren (13 Stück) kommen in ihren Epochen dazu.
+
+Hinweis: Baum, Busch und Palme werden seit V1.09 im Spiel selbst erzeugt (schöner, mit Wind). Die alten Meshy-Dateien liegen in `09_Alt/Steinzeit_Baeume_alt/`.
+
+
+## Neu in V1.12
+
+Gebäude in voller Qualität (für Grafik Mittel/Hoch). Einfache Fassungen für „Niedrig“ liegen im Spiel-Repository unter `models/niedrig/`.
+
+| Datei | Verwendung |
+|---|---|
+| `grosse_huette.glb` | Große Stammeshütte – Stadtzentrum-Variante (im Spiel) |
+| `zelt.glb` | Zelt – Wohnhaus-Variante (im Spiel) |
+| `vorratshuette.glb` | Vorratshütte – Lager-Variante (im Spiel) |
+| `kornspeicher.glb` | Kornspeicher – Lager-Variante (im Spiel) |
+| `festung.glb` | Stachel-Holzfestung – Kriegerhütte-Variante (im Spiel) |
+| `aussenposten.glb` | Außenposten – Kriegerhütte-Variante (im Spiel) |
+| `zahnhaus2.glb` | Haus der Zähne – Kriegerhütte-Variante (im Spiel) |
+| `palisadenring.glb` | Runder Palisadenring aus Knochen und Holz (für später) |
+| `stall.glb` | Gehege mit Strohdach – Stall für Pferde (für später, Reiten) |

@@ -4,6 +4,7 @@ Fürs Handy verkleinert (Textur 512 px, wenige Dreiecke). Originale von Meshy in
 
 | Datei | Zeitalter | Gedacht für |
 |---|---|---|
-| `floss_baumstamm.glb` | Steinzeit | erstes Floß aus Baumstämmen (für alle Völker gleich) |
-| `floss_holz.glb` | Steinzeit | Floß aus Holz, Variante (für alle Völker gleich) |
+| `schilfboot.glb` | Steinzeit | Schilfboot (für alle Völker gleich) |
+| `floss_baumstamm.glb` | Reserve | Floß aus Baumstämmen |
+| `floss_holz.glb` | Reserve | Floß aus Holz |
 | `galeone.glb` | Neuzeit | Galeone (später je Volk eigene Schiffe) |
