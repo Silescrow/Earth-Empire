@@ -21,4 +21,4 @@ Zum Spielen reicht die neueste Datei in `10_Alle_Versionen` – alle Bilder sind
 
 ## Stand
 
-Aktuell: **V1.16** – Steinzeit auf der echten Weltkarte (4 Größen, bis zu 18 Zivilisationen an ihren echten Orten), realistischer Boden mit Wüsten, Gebirgen und Schnee, Wasser mit Wellen, Herauszoomen bis zur ganzen Welt, Wappen-Fahnen, deine Meshy-Modelle, Höhlenmenschen mit Skelett, Palisade zum Selbstbauen, wehende Fahnen, eigene Musik und Geräusche, Musik „Crowns upon the Horizon“ (Menü) und „Before the Written Word“ (Spiel), riesige Karten, neue Bäume und Meer, Diplomatie und Handel im Hauptgebäude, Wege bauen.
+Aktuell: **V1.17** – Steinzeit auf der echten Weltkarte (4 Größen, bis zu 18 Zivilisationen an ihren echten Orten), realistischer Boden mit Wüsten, Gebirgen und Schnee, Wasser mit Wellen, Herauszoomen bis zur ganzen Welt, Wappen-Fahnen, deine Meshy-Modelle, Höhlenmenschen mit Skelett, Palisade zum Selbstbauen, wehende Fahnen, eigene Musik und Geräusche, Musik „Crowns upon the Horizon“ (Menü) und „Before the Written Word“ (Spiel), riesige Karten, neue Bäume und Meer, Diplomatie und Handel im Hauptgebäude, Wege bauen.

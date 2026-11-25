@@ -69,3 +69,4 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.14 – Leistung: Bäume und Bodenbewuchs je Sorte in einem Zeichenaufruf (statt Hunderten), Bäume in der Ferne vereinfacht (LOD), Schatten nur von nahen Bäumen, Beeren und Goldnuggets verschmolzen – Zeichenaufrufe von über 400 auf etwa 100
 - [x] V1.15 – Hauptmenü: „Weiterspielen“ (laufendes Spiel bleibt erhalten) und „Neues Spiel“; im Pausemenü „Neu starten“
 - [x] V1.16 – automatisch Vollbild (und quer) beim ersten Tipp im Ladebildschirm
+- [x] V1.17 – Länder wie in Empire Earth 2: Welt in feste Gebiete aufgeteilt, Stadtzentrum im Nachbargebiet erweitert dein Land, sichtbare Landesgrenzen (Teamfarbe, freie Gebiete grau), Bauen außerhalb dauert 3× so lange, max. 6 Hütten pro Gebiet, Heimvorteil +15 % Schaden; weniger Bäume/Gras, Waldstücke mit Lücken
