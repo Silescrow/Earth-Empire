@@ -39,6 +39,7 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 - [x] V1.06 – lückenloser Steinzeit-Zaun (Knochen-Zaun G), Lagerfeuer mit Flammen, Lichtschein und Rauch, Fahne nur mit Wappen (ohne Rand)
 - [x] V1.07 – Welt 3–5× größer (1000/1500/2000/2600 breit), Natur in Chunks, Startorte mit viel Land drumherum, mehr Abstand zwischen Völkern, Hauptgebäude = große Rundhütte
 - [x] V1.08 – Welt doppelt so breit (2000/3000/4000/5400), schnellerer Weltaufbau, Menümusik „Where the Morning Breathes“ (MP3)
+- [x] V1.09 – Karten viel größer (3840/5760/8320/12800, Welt in Kacheln), Völker nah an ihren echten Orten, neue Bäume (Laubbaum, Tanne, Palme) und Beerenbüsche mit Wind, schönes Meer (Tiefe, Schaum, Sonnenglanz), stimmige Größen, Auswahl-Leiste mit Figuren und X, Doppeltipp wählt ab, Diplomatie wie Empire Earth 2 (Bündnis/Neutral/Krieg, Tribut, Handel), Wege bauen (darauf 50 % schneller)
 - [ ] V1.08 – Sprachen: Deutsch, Englisch, Türkisch
 - [ ] Kaserne bauen, Soldaten gegen Ressourcen ausbilden, Kampf; Gruppen 1–3, Knopf „Alle Krieger“, Palisadenmauer
 - [ ] Schiffe (Hafen, Transport) für andere Kontinente
