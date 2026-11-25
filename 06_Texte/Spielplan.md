@@ -73,3 +73,4 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.18 – Spielstand wird automatisch gespeichert (alle 30 s, beim Menü, beim Schließen); im Hauptmenü immer „Weiterspielen“ und „Neu starten“
 - [x] V1.19 – Landesgrenzen als ganz dünne weiße Linien
 - [x] V1.20 – Landesgrenzen als kleine Holzpfosten in der Flaggenfarbe jedes Volkes (nur um eroberte Gebiete, niedrig während ein Stadtzentrum entsteht)
+- [x] V1.21 – Grenzpfosten halb so groß und dichter gesetzt
