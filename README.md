@@ -9,7 +9,7 @@ Echtzeit-Strategie fürs Handy im Browser: Führe dein Volk von der Steinzeit bi
 | `01_Hauptmenue` | Ladebildschirm und Hauptmenü-Hintergrund (Originale als PNG, fürs Spiel verkleinert als JPG) |
 | `02_Einheiten` | Bilder der Einheiten aller Zeitalter (noch leer) |
 | `03_3D_Modelle` | `Steinzeit/`: Häuser, Zäune, Bäume, Busch als GLB (fürs Handy verkleinert) |
-| `04_Musik` | `audio.js`: selbst erzeugte Musik und Geräusche, `LIESMICH.md` |
+| `04_Musik` | `audio.js`: Musik und Geräusche, `Where_the_Morning_Breathes.mp3` (Menümusik), `LIESMICH.md` |
 | `05_Geraeusche` | Liste aller Spielgeräusche (`LIESMICH.md`) |
 | `06_Texte` | `Spielplan.md`: Zeitalter, Regeln, Steuerung und Reihenfolge |
 | `07_Vorlagen_Bilder` | `Bild-Prompts.md`, `Weltkarte_Landmaske.png` und Vorlagenbilder |
@@ -21,4 +21,4 @@ Zum Spielen reicht die neueste Datei in `10_Alle_Versionen` – alle Bilder sind
 
 ## Stand
 
-Aktuell: **V1.07** – Steinzeit auf der echten Weltkarte (4 Größen, bis zu 18 Zivilisationen an ihren echten Orten), realistischer Boden mit Wüsten, Gebirgen und Schnee, Wasser mit Wellen, Herauszoomen bis zur ganzen Welt, Wappen-Fahnen, deine Meshy-Modelle, Höhlenmenschen mit Skelett, Palisade zum Selbstbauen, wehende Fahnen, eigene Musik und Geräusche.
+Aktuell: **V1.08** – Steinzeit auf der echten Weltkarte (4 Größen, bis zu 18 Zivilisationen an ihren echten Orten), realistischer Boden mit Wüsten, Gebirgen und Schnee, Wasser mit Wellen, Herauszoomen bis zur ganzen Welt, Wappen-Fahnen, deine Meshy-Modelle, Höhlenmenschen mit Skelett, Palisade zum Selbstbauen, wehende Fahnen, eigene Musik und Geräusche, Menümusik „Where the Morning Breathes“.
