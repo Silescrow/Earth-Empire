@@ -2,6 +2,9 @@
 
 Echtzeit-Strategiespiel fürs Handy im Browser (Querformat). Der Spieler führt sein Volk von der Steinzeit bis in die Zukunft: Ressourcen sammeln, Basis bauen, Armee aufstellen, KI-Gegner besiegen.
 
+## Zivilisationen (nur Zivilisation wählen, kein Land)
+Osmanen, Römer, Griechen, Ägypter, Babylonier, Germanen, Briten, Franken, Wikinger, Mongolen, Chinesen, Japaner, Koreaner, Azteken, Inka, Maya, Russen, Zulu – jede mit eigenem Wappen und Vorteil.
+
 ## Zeitalter
 1. Steinzeit – Hütten, Keulenkrieger, Speerwerfer
 2. Bronzezeit – Lehmhäuser, Schwertkämpfer, Bogenschützen, Streitwagen
@@ -33,8 +36,8 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 
 ## Reihenfolge
 - [x] V1.00 – Ladebildschirm und Hauptmenü
-- [ ] Schlachtfeld in 3D mit Touch-Kamera
-- [ ] Arbeiter, Ressourcen, Gebäude bauen
+- [x] V1.01 – 18 Zivilisationen; Steinzeit: 3D-Karte, Touch-Kamera, Arbeiter, Ressourcen, Hütte, Lager, Minikarte
+- [ ] Assets (KayKit/Quaternius) einbauen
 - [ ] Einheiten, Kampf, ein KI-Gegner
 - [ ] Zeitalter 1–3
 - [ ] Zeitalter 4–7, Schiffe, Flugzeuge

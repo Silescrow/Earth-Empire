@@ -21,4 +21,4 @@ Zum Spielen reicht die neueste Datei in `10_Alle_Versionen` – alle Bilder sind
 
 ## Stand
 
-Aktuell: **V1.00** – Ladebildschirm mit Ladebalken und Tipps, Hauptmenü mit Spielen, Kampagne, Tutorial, Einstellungen, Musik und Vollbild. Wie es weitergeht, steht in `06_Texte/Spielplan.md`.
+Aktuell: **V1.01** – Ladebildschirm, Hauptmenü mit 18 Zivilisationen und die spielbare Steinzeit: 3D-Karte mit Seen, Wäldern, Beeren, Steinen, Gold und Hirschen, Arbeiter sammeln und bauen (Hütte, Lager), Arbeiter ausbilden, Minikarte, Touch-Kamera, KI-Dörfer. Wie es weitergeht, steht in `06_Texte/Spielplan.md`.
