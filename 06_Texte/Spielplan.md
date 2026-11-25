@@ -37,7 +37,12 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 ## Reihenfolge
 - [x] V1.00 – Ladebildschirm und Hauptmenü
 - [x] V1.01 – 18 Zivilisationen; Steinzeit: 3D-Karte, Touch-Kamera, Arbeiter, Ressourcen, Hütte, Lager, Minikarte
-- [ ] Assets (KayKit/Quaternius) einbauen
+- [x] V1.02 – Steinzeit-Modelle aus Meshy (Stadtzentrum, Hütte, Lager, Zaun, Bäume, Palmen, Büsche); Auswahlrahmen mit einem Finger, Karte mit zwei Fingern
+- [ ] Weltkarte mit echten Kontinenten, Startorte der Zivilisationen
+- [ ] Kaserne, Krieger, Kampf; Gruppen 1–3, Knopf „Alle Krieger“, Palisadenmauer
+- [ ] Schiffe (Hafen, Transport) für andere Kontinente
+- [ ] Diplomatie wie Empire Earth II: Krieg/Frieden/Allianz, Verträge, Territorien, Handelsrouten, Kriegsplaner
+- [ ] Figuren mit Skelett: Höhlenmenschen; Osmanen (13, 11, 10, 12 zuerst)
 - [ ] Einheiten, Kampf, ein KI-Gegner
 - [ ] Zeitalter 1–3
 - [ ] Zeitalter 4–7, Schiffe, Flugzeuge

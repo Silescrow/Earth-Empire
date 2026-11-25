@@ -8,7 +8,7 @@ Echtzeit-Strategie fürs Handy im Browser: Führe dein Volk von der Steinzeit bi
 |---|---|
 | `01_Hauptmenue` | Ladebildschirm und Hauptmenü-Hintergrund (Originale als PNG, fürs Spiel verkleinert als JPG) |
 | `02_Einheiten` | Bilder der Einheiten aller Zeitalter (noch leer) |
-| `03_3D_Modelle` | eigene 3D-Modelle als GLB (noch leer) |
+| `03_3D_Modelle` | `Steinzeit/`: Häuser, Zäune, Bäume, Busch als GLB (fürs Handy verkleinert) |
 | `04_Musik` | Musik (noch leer – das Spiel erzeugt seine Musik gerade selbst) |
 | `05_Geraeusche` | Geräusche (noch leer) |
 | `06_Texte` | `Spielplan.md`: Zeitalter, Regeln, Steuerung und Reihenfolge |
@@ -21,4 +21,4 @@ Zum Spielen reicht die neueste Datei in `10_Alle_Versionen` – alle Bilder sind
 
 ## Stand
 
-Aktuell: **V1.01** – Ladebildschirm, Hauptmenü mit 18 Zivilisationen und die spielbare Steinzeit: 3D-Karte mit Seen, Wäldern, Beeren, Steinen, Gold und Hirschen, Arbeiter sammeln und bauen (Hütte, Lager), Arbeiter ausbilden, Minikarte, Touch-Kamera, KI-Dörfer. Wie es weitergeht, steht in `06_Texte/Spielplan.md`.
+Aktuell: **V1.02** – Steinzeit mit deinen Meshy-Modellen (Stadtzentrum mit Palisade, Hütte, Lager, Bäume, Palmen, Beerensträucher), Auswahlrahmen mit einem Finger, Karte mit zwei Fingern bewegen.
