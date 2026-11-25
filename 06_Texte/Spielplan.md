@@ -62,3 +62,4 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - Schiffe, um andere Kontinente zu erreichen
 - Bodentexturen realistisch, passend zu den Meshy-Figuren (eigene ChatGPT-Texturen möglich)
 - Versionsnummer immer im Ladebildschirm; Backup von allem, was im Spiel benutzt wird
+- [x] V1.10 – Beerenbüsche auf echte Größe verkleinert (etwa 1–1,3 m)
