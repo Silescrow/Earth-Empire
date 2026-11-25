@@ -35,7 +35,9 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 - [x] V1.02 – Steinzeit-Modelle aus Meshy (Stadtzentrum, Hütte, Lager, Zaun, Bäume, Palmen, Büsche); Auswahlrahmen mit einem Finger, Karte mit zwei Fingern
 - [x] V1.03 – Weltkarte (4 Größen, 1–17 Gegner, echte Startorte), realistischer Boden, Wüsten, Gebirge, Schnee, Wasser mit Wellen, Herauszoomen bis zur ganzen Welt, Wappen-Fahnen, Felsen/Erz/Öl an echten Orten
 - [x] V1.04 – Höhlenmenschen mit automatischem Skelett, Größen abgestimmt
-- [ ] Kaserne, Krieger, Kampf; Gruppen 1–3, Knopf „Alle Krieger“, Palisadenmauer
+- [x] V1.05 – Palisade selbst bauen (Linie ziehen, Tor), kein automatischer Zaun mehr; wehende Fahnen; eigene Musik (Hauptthema durchgehend Ladebildschirm→Menü, ruhige Spielmusik) und Spielgeräusche; Gegner zufällig an echten Orten mit Mindestabstand
+- [ ] V1.06 – Sprachen: Deutsch, Englisch, Türkisch
+- [ ] Kaserne bauen, Soldaten gegen Ressourcen ausbilden, Kampf; Gruppen 1–3, Knopf „Alle Krieger“, Palisadenmauer
 - [ ] Schiffe (Hafen, Transport) für andere Kontinente
 - [ ] Diplomatie wie Empire Earth II: Krieg/Frieden/Allianz, Verträge, Territorien, Handelsrouten, Kriegsplaner
 - [ ] Figuren mit Skelett: Höhlenmenschen; Osmanen (13, 11, 10, 12 zuerst)

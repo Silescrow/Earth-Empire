@@ -9,8 +9,8 @@ Echtzeit-Strategie fürs Handy im Browser: Führe dein Volk von der Steinzeit bi
 | `01_Hauptmenue` | Ladebildschirm und Hauptmenü-Hintergrund (Originale als PNG, fürs Spiel verkleinert als JPG) |
 | `02_Einheiten` | Bilder der Einheiten aller Zeitalter (noch leer) |
 | `03_3D_Modelle` | `Steinzeit/`: Häuser, Zäune, Bäume, Busch als GLB (fürs Handy verkleinert) |
-| `04_Musik` | Musik (noch leer – das Spiel erzeugt seine Musik gerade selbst) |
-| `05_Geraeusche` | Geräusche (noch leer) |
+| `04_Musik` | `audio.js`: selbst erzeugte Musik und Geräusche, `LIESMICH.md` |
+| `05_Geraeusche` | Liste aller Spielgeräusche (`LIESMICH.md`) |
 | `06_Texte` | `Spielplan.md`: Zeitalter, Regeln, Steuerung und Reihenfolge |
 | `07_Vorlagen_Bilder` | `Bild-Prompts.md`, `Weltkarte_Landmaske.png` und Vorlagenbilder |
 | `08_App` | App-Symbole und `manifest.webmanifest` für die installierte App |
@@ -21,4 +21,4 @@ Zum Spielen reicht die neueste Datei in `10_Alle_Versionen` – alle Bilder sind
 
 ## Stand
 
-Aktuell: **V1.04** – Steinzeit auf der echten Weltkarte (4 Größen, bis zu 18 Zivilisationen an ihren echten Orten), realistischer Boden mit Wüsten, Gebirgen und Schnee, Wasser mit Wellen, Herauszoomen bis zur ganzen Welt, Wappen-Fahnen, deine Meshy-Modelle, Höhlenmenschen mit Skelett.
+Aktuell: **V1.05** – Steinzeit auf der echten Weltkarte (4 Größen, bis zu 18 Zivilisationen an ihren echten Orten), realistischer Boden mit Wüsten, Gebirgen und Schnee, Wasser mit Wellen, Herauszoomen bis zur ganzen Welt, Wappen-Fahnen, deine Meshy-Modelle, Höhlenmenschen mit Skelett, Palisade zum Selbstbauen, wehende Fahnen, eigene Musik und Geräusche.
