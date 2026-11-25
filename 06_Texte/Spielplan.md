@@ -5,14 +5,9 @@ Echtzeit-Strategiespiel fürs Handy im Browser (Querformat). Der Spieler führt 
 ## Zivilisationen (nur Zivilisation wählen, kein Land)
 Osmanen, Römer, Griechen, Ägypter, Babylonier, Germanen, Briten, Franken, Wikinger, Mongolen, Chinesen, Japaner, Koreaner, Azteken, Inka, Maya, Russen, Zulu – jede mit eigenem Wappen und Vorteil.
 
-## Zeitalter
-1. Steinzeit – Hütten, Keulenkrieger, Speerwerfer
-2. Bronzezeit – Lehmhäuser, Schwertkämpfer, Bogenschützen, Streitwagen
-3. Mittelalter – Burgen, Ritter, Armbrustschützen, Katapulte
-4. Renaissance – Musketiere, Kanonen, Galeonen
-5. Industriezeitalter – Fabriken, Gewehrschützen, Artillerie, Dampfschiffe
-6. Moderne – Panzer, Infanterie, Helikopter, Kampfjets
-7. Zukunft – Mechs, Laserinfanterie, Schwebepanzer, Drohnen
+## Epochen (10)
+1. Steinzeit · 2. Antike · 3. Mittelalter · 4. Neuzeit · 5. Industriezeit · 6. Erster Weltkrieg · 7. Zweiter Weltkrieg · 8. Kalter Krieg · 9. Moderne · 10. Zukunft
+Gebaut wird Epoche für Epoche; die Steinzeit ist für alle Zivilisationen gleich (nur Farbe und Wappen). Pro Epoche kommen eigene Assets je Zivilisation dazu, die Osmanen zuerst.
 
 ## Ressourcen
 Nahrung, Holz, Stein, Gold (später Eisen). Arbeiter tragen sie sichtbar zum Lager.
@@ -38,7 +33,7 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 - [x] V1.00 – Ladebildschirm und Hauptmenü
 - [x] V1.01 – 18 Zivilisationen; Steinzeit: 3D-Karte, Touch-Kamera, Arbeiter, Ressourcen, Hütte, Lager, Minikarte
 - [x] V1.02 – Steinzeit-Modelle aus Meshy (Stadtzentrum, Hütte, Lager, Zaun, Bäume, Palmen, Büsche); Auswahlrahmen mit einem Finger, Karte mit zwei Fingern
-- [ ] Weltkarte mit echten Kontinenten, Startorte der Zivilisationen
+- [x] V1.03 – Weltkarte (4 Größen, 1–17 Gegner, echte Startorte), realistischer Boden, Wüsten, Gebirge, Schnee, Wasser mit Wellen, Herauszoomen bis zur ganzen Welt, Wappen-Fahnen, Felsen/Erz/Öl an echten Orten
 - [ ] Kaserne, Krieger, Kampf; Gruppen 1–3, Knopf „Alle Krieger“, Palisadenmauer
 - [ ] Schiffe (Hafen, Transport) für andere Kontinente
 - [ ] Diplomatie wie Empire Earth II: Krieg/Frieden/Allianz, Verträge, Territorien, Handelsrouten, Kriegsplaner
@@ -47,3 +42,16 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 - [ ] Zeitalter 1–3
 - [ ] Zeitalter 4–7, Schiffe, Flugzeuge
 - [ ] Kampagne und Tutorial
+
+## Vorbild Empire Earth II (alles soll rein, Epoche für Epoche)
+Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, Diplomatie (Krieg/Frieden/Allianz, Verträge mit Bedingungen, Territorien tauschen), Handel und Handelsrouten (Markt, Händler), Wetter und Jahreszeiten, Spezial-Rohstoffe (Metall, Öl …), Bürger-Manager, Kriegsplaner, große Übersichtskarte.
+
+## Weitere Wünsche
+- Karte immer aufgedeckt; weit herauszoomen bis zur ganzen Welt, Gegner sichtbar
+- Weltkarte in 4 Größen, frei wählbar; 1–17 Gegner oder alle
+- Stadtzentrum zeigt immer die Fahne (Wappen) der Zivilisation
+- Realistisches Schadensmodell (Rauch, Feuer, Einsturz; Treffer/Fehlschuss, Rüstung, Flanke, Gelände)
+- Zäune/Palisaden zum Bauen mit Tor, in jeder Epoche ein eigenes Modell
+- Schiffe, um andere Kontinente zu erreichen
+- Bodentexturen realistisch, passend zu den Meshy-Figuren (eigene ChatGPT-Texturen möglich)
+- Versionsnummer immer im Ladebildschirm; Backup von allem, was im Spiel benutzt wird

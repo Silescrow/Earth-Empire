@@ -12,7 +12,7 @@ Echtzeit-Strategie fürs Handy im Browser: Führe dein Volk von der Steinzeit bi
 | `04_Musik` | Musik (noch leer – das Spiel erzeugt seine Musik gerade selbst) |
 | `05_Geraeusche` | Geräusche (noch leer) |
 | `06_Texte` | `Spielplan.md`: Zeitalter, Regeln, Steuerung und Reihenfolge |
-| `07_Vorlagen_Bilder` | `Bild-Prompts.md` und Vorlagenbilder für Stil und Modelle |
+| `07_Vorlagen_Bilder` | `Bild-Prompts.md`, `Weltkarte_Landmaske.png` und Vorlagenbilder |
 | `08_App` | App-Symbole und `manifest.webmanifest` für die installierte App |
 | `09_Alt` | nicht mehr benutzte Dateien |
 | `10_Alle_Versionen` | alle Spielversionen ab `V1.00`, fortlaufend nummeriert (+0.01 pro Version); die neueste läuft online als `index.html` im Repository `EarthEmpireGithub` |
@@ -21,4 +21,4 @@ Zum Spielen reicht die neueste Datei in `10_Alle_Versionen` – alle Bilder sind
 
 ## Stand
 
-Aktuell: **V1.02** – Steinzeit mit deinen Meshy-Modellen (Stadtzentrum mit Palisade, Hütte, Lager, Bäume, Palmen, Beerensträucher), Auswahlrahmen mit einem Finger, Karte mit zwei Fingern bewegen.
+Aktuell: **V1.03** – Steinzeit auf der echten Weltkarte (4 Größen, bis zu 18 Zivilisationen an ihren echten Orten), realistischer Boden mit Wüsten, Gebirgen und Schnee, Wasser mit Wellen, Herauszoomen bis zur ganzen Welt, Wappen-Fahnen, deine Meshy-Modelle.
