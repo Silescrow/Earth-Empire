@@ -16,8 +16,10 @@ Aus deinen Meshy-Modellen für Earth Empire verkleinert (wenige Tausend Dreiecke
 | busch.glb | Beerensträucher | Meshy_AI_Stylized_Green_Bush_20260920 |
 | fels.glb | Steinvorkommen | Meshy_AI_An_ultra_realistic_3D_rock_model_20250226 |
 | monolith.glb | große Steinbrocken | Meshy_AI_Fractured_Monolith_20260916 |
+| hoehlenmann.glb | Arbeiter (Mann), Skelett automatisch im Spiel | Meshy_AI_Stone_Age_Caveman_20260420 |
+| hoehlenfrau.glb | Arbeiterin (Frau), Skelett automatisch im Spiel | Meshy_AI_Stone_Age_Stance_20260420 |
 | erz.glb | Metall- und Goldvorkommen | Meshy_AI_A_waist_high_silver_ore_deposit_20250212 |
 
 Die Originale sind zu groß für GitHub (bis 320 MB pro Datei).
-Noch ohne Skelett, deshalb noch nicht eingebaut: Höhlenmensch und Steinzeit-Frau (brauchen Auto-Rig in Meshy), Werkzeuge.
+Höhlenmann und -frau bekommen ihr Skelett automatisch im Spiel (Auto-Rig per Code: Stehen, Laufen, Arbeiten).
 Osmanen-Figuren (13 Stück) kommen in ihren Epochen dazu.

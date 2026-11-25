@@ -34,6 +34,7 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 - [x] V1.01 – 18 Zivilisationen; Steinzeit: 3D-Karte, Touch-Kamera, Arbeiter, Ressourcen, Hütte, Lager, Minikarte
 - [x] V1.02 – Steinzeit-Modelle aus Meshy (Stadtzentrum, Hütte, Lager, Zaun, Bäume, Palmen, Büsche); Auswahlrahmen mit einem Finger, Karte mit zwei Fingern
 - [x] V1.03 – Weltkarte (4 Größen, 1–17 Gegner, echte Startorte), realistischer Boden, Wüsten, Gebirge, Schnee, Wasser mit Wellen, Herauszoomen bis zur ganzen Welt, Wappen-Fahnen, Felsen/Erz/Öl an echten Orten
+- [x] V1.04 – Höhlenmenschen mit automatischem Skelett, Größen abgestimmt
 - [ ] Kaserne, Krieger, Kampf; Gruppen 1–3, Knopf „Alle Krieger“, Palisadenmauer
 - [ ] Schiffe (Hafen, Transport) für andere Kontinente
 - [ ] Diplomatie wie Empire Earth II: Krieg/Frieden/Allianz, Verträge, Territorien, Handelsrouten, Kriegsplaner
