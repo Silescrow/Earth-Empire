@@ -18,6 +18,8 @@ Aus deinen Meshy-Modellen für Earth Empire verkleinert (wenige Tausend Dreiecke
 | monolith.glb | große Steinbrocken | Meshy_AI_Fractured_Monolith_20260916 |
 | hoehlenmann.glb | Arbeiter (Mann), Skelett automatisch im Spiel | Meshy_AI_Stone_Age_Caveman_20260420 |
 | hoehlenfrau.glb | Arbeiterin (Frau), Skelett automatisch im Spiel | Meshy_AI_Stone_Age_Stance_20260420 |
+| lagerfeuer.glb | Lagerfeuer am Stadtzentrum | Meshy_AI_campfire_20250521 |
+| zaun_knochen.glb | Steinzeit-Zaun zum Selbstbauen (G) | Meshy_AI_A_rugged_stylized_ogre_fence_20250316 |
 | erz.glb | Metall- und Goldvorkommen | Meshy_AI_A_waist_high_silver_ore_deposit_20250212 |
 
 Die Originale sind zu groß für GitHub (bis 320 MB pro Datei).
