@@ -76,3 +76,5 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.21 – Grenzpfosten halb so groß und dichter gesetzt
 - [x] V1.22 – keine weißen Linien mehr (frei = keine Pfosten), beim Platzieren eines Stadtzentrums wird das Gebiet umrandet (grün/rot), Weiterspielen-Fix: Dateien mit Versionsnummer, damit das Handy keine alten Dateien nimmt
 - [x] V1.23 – Stadtzentrum: Meldung welche Rohstoffe fehlen (statt stillem Abbruch), ohne ausgewählte Arbeiter gehen die nächsten 3 Arbeiter bauen, Meldung „wird gebaut“
+- [x] V1.24 – Haken (✓) beim Bauen ist gesperrt und grau, solange Rohstoffe fehlen oder der Platz nicht geht; fehlende Menge steht in der Leiste
+- [x] V1.25 – Bauleiste zeigt Kosten mit Symbolen (rot = fehlt) wie in Empire Earth 2; Palisaden und Wege bis 150 m am Stück; „+ Tore“ setzt bei langen Palisaden alle ~28 m ein Tor; fertige Palisade antippen → „Zu Tor machen“
