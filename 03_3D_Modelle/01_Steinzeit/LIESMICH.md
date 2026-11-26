@@ -13,6 +13,7 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `vorratshuette.glb` | Vorratshütte – Lager-Variante, im Spiel | Original/vorratshuette_original.glb – 53 MB |
 | `kornspeicher.glb` | Kornspeicher – Lager-Variante, im Spiel | Original/kornspeicher_original.glb – 22 MB |
 | `knochenhuette.glb` | Knochenhütte (früher Stadtzentrum, Reserve) | – (Original nicht vorhanden) |
+| `wachturm.glb` | Wachturm aus gebundenen Stangen – schießt Pfeile, im Spiel seit V1.33 | Original/wachturm_original.glb – 16 MB |
 | `zahnhaus.glb` | Haus der Zähne – Kriegerhütte | Original/zahnhaus_original.glb (in 2 Teilen) – 99 MB |
 | `zahnhaus2.glb` | Haus der Zähne, zweite Fassung – Kriegerhütte-Variante, im Spiel | – (Original nicht vorhanden) |
 | `festung.glb` | Stachel-Holzfestung – Kriegerhütte-Variante, im Spiel | Original/festung_original.glb – 66 MB |

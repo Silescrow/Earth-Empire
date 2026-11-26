@@ -2,11 +2,16 @@
 
 | Ordner | Epoche |
 |---|---|
-| `1_Steinzeit/` | Steinzeit (aktuelle Epoche) – Gebäude, Zäune, Figuren, Waffen, Tiere, Natur, Deko, Wasser |
-| `2_Antike/` | Antike – Reitstall, Sattelpferd, Weidezäune, Flöße, Eisenwaffen |
-| `3_Mittelalter/` | Mittelalter – Schwerter |
-| `4_Neuzeit/` | Neuzeit – Galeone |
-| `9_Reserve/` | passt zu keiner Epoche |
+| `01_Steinzeit/` | Steinzeit (aktuell) – Gebäude, Zäune, Figuren, Waffen, Tiere, Natur, Deko, Wasser |
+| `02_Antike/` | Antike – Reitstall, Sattelpferd, Weidezäune, Flöße, Eisenwaffen |
+| `03_Mittelalter/` | Mittelalter – Schwerter, hölzerner Wachturm |
+| `04_Neuzeit/` | Neuzeit – Galeone |
+| `07_Zweiter_Weltkrieg/` | Zweiter Weltkrieg – Kommandobunker |
+| `09_Moderne/` | Moderne – Beton-Wachturm |
+| `10_Zukunft/` | Zukunft – Zukunftsbunker |
+| `99_Reserve/` | passt zu keiner Epoche |
+
+Fehlende Nummern (05, 06, 08) kommen dazu, sobald es dafür Assets gibt.
 
 In jedem Epochen-Ordner steht eine `LIESMICH.md` mit allen Modellen.
 
