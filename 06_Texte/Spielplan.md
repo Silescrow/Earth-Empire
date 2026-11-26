@@ -135,6 +135,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.70 – Kompass-Knopf neben dem Haus: dreht die Kamera zurück auf die Achse der Weltkarte (Norden oben), Zoom bleibt; Nadel zeigt immer nach Norden
 - [x] V1.71 – Verfolger-Kamera: eine Figur auswählen → „Folgen“, Kamera hinter der Schulter läuft mit, Figur arbeitet selbst weiter; „Zurück“ beendet
 - [x] V1.72 – Größenverhältnis: Menschen 20 % kleiner (ca. 1,7 m), Hütten 3,6 und Lager 4,3 breit – Türen passen zur Körpergröße, Pferd im richtigen Verhältnis
+- [x] V1.73 – Palisaden docken an die Enden bestehender Palisaden an (geschlossene Ecken); Baufortschrittsbalken kleiner, bei Palisaden nur über dem Stück, das gerade gebaut wird
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
@@ -178,3 +179,10 @@ Ein gemeinsames **Silescrow ID**-Konto (Firebase-Projekt silescrow-cup) für all
 ### Als Nächstes
 - Fenster ohne Scrollen (alles auf einen Blick), auch Online-Bereich und Silescrow ID
 - Verfolger-Kamera: Person antippen → „Folgen“, Kamera läuft hinter der Figur mit
+
+## Geplant: Mauertürme (ab den Burg-Epochen)
+- [ ] Mauer antippen → Knopf „Türme einbauen“: setzt automatisch alle ca. 10 m einen Turm in die Mauer, Ecken und Enden immer mit Turm
+- [ ] Vorschau mit Gesamtpreis vor dem Bestätigen, Bauern bauen die Türme nacheinander
+- [ ] Türme brauchen keine Besatzung: schießen selbst Pfeile, wenn Gegner kommen
+- [ ] Spätere Epochen: andere Munition (z. B. Armbrust, Kanone) je Epoche
+- [ ] Optional schon in der Steinzeit: kleine Holz-Wachposten in der Palisade
