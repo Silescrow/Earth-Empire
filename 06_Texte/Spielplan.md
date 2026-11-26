@@ -124,6 +124,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.59 – jede Zivilisation hat eine feste Farbe nach ihrer Flagge (Osmanen rot, Griechen blau, Germanen grün …), auch für die eroberten Gebiete; Gebiete erst weit herausgezoomt sichtbar; das Lager füllt sich sichtbar im Gebäude, am Stadtzentrum keine Rohstoffhaufen mehr
 - [x] V1.60 – Vogelschwärme: Vogel mit automatischem Skelett (Körper, Flügel, Flügelspitzen), Flügelschlag und Gleitflug, Schwärme ziehen über die Karte
 - [x] V1.61 – Knopf für untätige Bauern über der Minikarte entfernt, Home-Knopf sitzt jetzt rechts neben der Minikarte (überlappt nichts mehr)
+- [x] V1.62 – Pferd und Antilope hatten Löcher (zu stark vereinfacht) – jetzt volle Geometrie (10.000 Dreiecke) mit Textur 1024
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
