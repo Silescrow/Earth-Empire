@@ -133,6 +133,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.68 – Diplomatie: Lehnt ein Volk ab, nennt es einen Goldpreis (Neutrale billig, Kriegsgegner teuer); unversöhnliche Kriegsgegner (⚔, ca. 30 %) nehmen nie ein Bündnis an; Fenster zeigt bis zu 17 Völker zweispaltig ohne Scrollen
 - [x] V1.69 – Haus-Knopf springt nur zum Hauptgebäude, öffnet kein Fenster mehr
 - [x] V1.70 – Kompass-Knopf neben dem Haus: dreht die Kamera zurück auf die Achse der Weltkarte (Norden oben), Zoom bleibt; Nadel zeigt immer nach Norden
+- [x] V1.71 – Verfolger-Kamera: eine Figur auswählen → „Folgen“, Kamera hinter der Schulter läuft mit, Figur arbeitet selbst weiter; „Zurück“ beendet
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
