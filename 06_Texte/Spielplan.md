@@ -115,6 +115,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.50 – automatisches Update: das Spiel prüft alle 2 Minuten `version.txt`; gibt es eine neue Version, kommt ein kurzer Hinweis und sie wird geladen (im laufenden Spiel erst beim Öffnen des Menüs, Spielstand wird vorher gespeichert); bis dahin „Spielen“ ausgegraut, nur „Update“ und „Einstellungen“ gehen; der Link bleibt immer gleich
 - [x] V1.51 – Tipp-Fenster klein (eine Zeile unten rechts) und nach 30 Sekunden ganz weg
 - [x] V1.52 – Update klein unten mit Ladebalken: neue Version wird automatisch heruntergeladen und das Spiel startet neu (in einer Partie erst beim Öffnen des Menüs, Spielstand wird gespeichert); während des Ladens „Spielen“ ausgegraut
+- [x] V1.53 – PC-Steuerung wie Empire Earth 2 (Linksklick wählen, Rechtsklick befehlen, Rahmen ziehen, Doppelklick = alle gleichen, Strg+1–9 Gruppen, WASD/Pfeile/Bildschirmrand, Q/E drehen, Baukürzel E/L/K/T/Z/P/R, F = Bauer, H/Punkt/Leertaste/M/Entf/Esc); Online-Raum mit 4-stelligem Code (Lobby: jeder wählt sein Volk und Team, Gastgeber stellt Karte, Schwierigkeit und Plätze ein, Start erst wenn alle gewählt haben, alle Geräte starten gleichzeitig, Chat, Einladungs-Link); Spielen ohne Internet (Service Worker legt alles auf dem Gerät ab)
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
@@ -144,3 +145,11 @@ Antike (Osmanen zuerst):
 - [ ] A4 Rathaus (Steuern, Bauern +25 %, Grenzschutz)
 - [ ] A5 Reitstall und Reiter
 - [ ] A6 nächster Kulturkreis (danach einer nach dem anderen)
+
+## PC und Online-Mehrspieler (wie bei allen Silescrow-Spielen)
+Kein Online-Zwang: offline gegen die KI geht immer, ohne Konto und ohne Internet. Konto nur für Online, Freunde und Cloud.
+Ein gemeinsames **Silescrow ID**-Konto (Firebase-Projekt silescrow-cup) für alle Spiele; jedes Spiel hat seinen Bereich `spiele/<spiel>/…`.
+- [x] M1 – PC-Steuerung wie Empire Earth 2, Online-Raum mit 4-stelligem Code, Offline-Spielen (V1.53)
+- [ ] M2 – Silescrow ID: Registrieren/Anmelden (Online-Name, E-Mail, PIN), Cloud-Speichern, Admin-Bereich (Spieler, Geschenke/Nachrichten, sperren, Spielstand löschen, aus dem Spiel werfen, Neuigkeiten)
+- [ ] M3 – Freunde, Einladungen, offene Räume von Freunden, privater Raum
+- [ ] M4 – Spielverlauf online übertragen (Gastgeber rechnet, Gäste sehen und befehlen)
