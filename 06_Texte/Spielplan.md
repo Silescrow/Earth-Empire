@@ -26,7 +26,7 @@ Stein-Schere-Papier: Infanterie > Bogenschützen, Kavallerie > Infanterie, Speer
 - Minikarte unten links, Kontrollgruppen 1–3, Vibration
 
 ## Spielmodi
-Freies Spiel (Karte, Gegner 1–3, Schwierigkeit, Start-Zeitalter), Kampagne mit 5 Missionen, Tutorial.
+Freies Spiel (Karte, Gegner 1–3, Schwierigkeit, Start-Zeitalter), Tutorial (keine Kampagne).
 Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 
 ## Reihenfolge
@@ -48,7 +48,7 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 - [ ] Einheiten, Kampf, ein KI-Gegner
 - [ ] Zeitalter 1–3
 - [ ] Zeitalter 4–7, Schiffe, Flugzeuge
-- [ ] Kampagne und Tutorial
+- [ ] Tutorial
 
 ## Vorbild Empire Earth II (alles soll rein, Epoche für Epoche)
 Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, Diplomatie (Krieg/Frieden/Allianz, Verträge mit Bedingungen, Territorien tauschen), Handel und Handelsrouten (Markt, Händler), Wetter und Jahreszeiten, Spezial-Rohstoffe (Metall, Öl …), Bürger-Manager, Kriegsplaner, große Übersichtskarte.
