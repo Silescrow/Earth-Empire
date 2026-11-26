@@ -7,6 +7,9 @@ h = open(os.path.join(src,'index.html'),encoding='utf8').read()
 for img in ['laden.jpg','menue.jpg']:
     uri='data:image/jpeg;base64,'+b64(img)
     h=h.replace('url('+img+')','url('+uri+')').replace("loadImg('"+img+"')","loadImg('"+uri+"')")
+import glob
+for f in sorted(glob.glob(os.path.join(src,'ui','*.jpg'))):
+    rel='ui/'+os.path.basename(f); h=h.replace('url('+rel+')','url(data:image/jpeg;base64,'+base64.b64encode(open(f,'rb').read()).decode()+')')
 icon='data:image/png;base64,'+b64('icon-192.png')
 h=h.replace('href="icon-192.png"','href="'+icon+'"').replace('<link rel="manifest" href="manifest.webmanifest">\n','')
 g=open(os.path.join(src,'game.js'),encoding='utf8').read()
