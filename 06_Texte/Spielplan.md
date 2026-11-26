@@ -106,6 +106,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.40 – Teamfarbe = Flaggenfarbe (Osmanen rot: Stirnband, Grenzpfosten, Minikarte, Auswahl); bei gleicher Farbe zweier Völker die zweite Flaggenfarbe, erst dann eine Ersatzfarbe; Gegner werden mit Volksnamen statt Farbnamen angezeigt
 - [x] V1.41 – Nord- und Südpol auf der Karte (Antarktis und Packeis weiß); Sorten-Leiste oben links: je Sorte ein Knopf mit Anzahl (Bauern, Axtkrieger, Speerträger, Bogenschützen, alle Krieger) – antippen wählt alle aus (später auch Reiter, Schiffe, Flugzeuge, Hubschrauber); Kosten auf den Bau-Knöpfen grün (genug da) oder rot (fehlt); Hinweis, welche Rohstoffe fehlen, auch beim Drücken auf den grünen Haken
 - [x] V1.42 – Kampagne komplett entfernt (Hauptmenü: Spielen, Tutorial, Einstellungen)
+- [x] V1.43 – echte Icons aus den 3D-Modellen: Bauern und Krieger als ganze Figur (kein verschwommenes Gesicht), Gebäude (Stadtzentrum, Hütte, Lager, Palisade, Kriegerhütte, Wachturm) als kleines Bild, hochauflösend
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
