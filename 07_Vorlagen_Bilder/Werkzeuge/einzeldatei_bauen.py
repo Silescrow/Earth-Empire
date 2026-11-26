@@ -6,7 +6,7 @@ b64 = lambda f: base64.b64encode(rd(f)).decode()
 h = open(os.path.join(src,'index.html'),encoding='utf8').read()
 for img in ['laden.jpg','menue.jpg']:
     uri='data:image/jpeg;base64,'+b64(img)
-    h=h.replace('url('+img+')','url('+uri+')').replace("loadImg('"+img+"')","loadImg('"+uri+"')")
+    h=re.sub(r"url\("+re.escape(img)+r"(\?v=\d+)?\)",'url('+uri+')',h); h=re.sub(r"loadImg\('"+re.escape(img)+r"(\?v=\d+)?'\)","loadImg('"+uri+"')",h)
 import glob
 for f in sorted(glob.glob(os.path.join(src,'ui','*.jpg'))):
     rel='ui/'+os.path.basename(f); h=h.replace('url('+rel+')','url(data:image/jpeg;base64,'+base64.b64encode(open(f,'rb').read()).decode()+')')

@@ -43,7 +43,7 @@ service cloud.firestore {
     match /support/{uid} { allow read, write: if ich(uid) || admin(); }
     match /support/{uid}/nachrichten/{id} { allow read, write: if ich(uid) || admin(); }
 
-    // ===== JEDES WEITERE SPIEL (Earth Empire, Siles Island, ...) =====
+    // ===== JEDES WEITERE SPIEL (Siles Empire – intern weiter `earth-empire`, Siles Island, ...) =====
     match /spiele/{spiel}/news/{id} { allow read: if true; allow write: if admin(); }
     match /spiele/{spiel}/spieler/{uid} { allow read: if ich(uid) || admin(); allow write: if (ich(uid) && !gesperrt()) || admin(); }
     match /spiele/{spiel}/liste/{uid} { allow read, write: if ich(uid) || admin(); }

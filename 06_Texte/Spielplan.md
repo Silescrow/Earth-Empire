@@ -1,4 +1,4 @@
-# Earth Empire – Spielplan
+# Siles Empire – Spielplan (früher Earth Empire)
 
 Echtzeit-Strategiespiel fürs Handy im Browser (Querformat). Der Spieler führt sein Volk von der Steinzeit bis in die Zukunft: Ressourcen sammeln, Basis bauen, Armee aufstellen, KI-Gegner besiegen.
 
@@ -118,6 +118,8 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.53 – PC-Steuerung wie Empire Earth 2 (Linksklick wählen, Rechtsklick befehlen, Rahmen ziehen, Doppelklick = alle gleichen, Strg+1–9 Gruppen, WASD/Pfeile/Bildschirmrand, Q/E drehen, Baukürzel E/L/K/T/Z/P/R, F = Bauer, H/Punkt/Leertaste/M/Entf/Esc); Online-Raum mit 4-stelligem Code (Lobby: jeder wählt sein Volk und Team, Gastgeber stellt Karte, Schwierigkeit und Plätze ein, Start erst wenn alle gewählt haben, alle Geräte starten gleichzeitig, Chat, Einladungs-Link); Spielen ohne Internet (Service Worker legt alles auf dem Gerät ab)
 - [x] V1.54 – Silescrow ID (gleiches System wie im Silescrow Cup, ein Konto für alle Spiele): Registrierung beim ersten Start Pflicht (Online-Name, E-Mail, 6-stellige PIN, Alter, Nutzungsbedingungen), danach bleibt man angemeldet und kann offline gegen die KI spielen; Spielstand automatisch in der Cloud; Freunde (suchen, Anfragen, entfernen); Online spielen nur mit ID und Internet (sonst ausgegraut): Raum entsteht automatisch, 🔓 offen oder 🔒 mit Passwort, Freunde einladen nur aus dem eigenen Raum (Eingeladene ohne Passwort), Räume der Freunde sehen und beitreten, kein Raumcode mehr; Admin-Bereich: Spieler mit Online-Status, Geschenke (Rohstoffe) und Nachrichten an einen oder alle, aus dem Spiel werfen, Spielstand löschen, sperren (in allen Spielen), Neuigkeiten im Hauptmenü, Support-Chat
 - [x] V1.55 – eroberte Gebiete beim Herauszoomen und auf der Minikarte in der Farbe des Volkes (durchsichtig, nur auf Land, mit Grenzlinie); Golderz ohne gelbe Kugeln (nur leicht warm getönt); Silescrow-ID-Knopf im Menü unten rechts (verdeckt nicht mehr den Spielnamen), im Spiel ausgeblendet
+- [x] V1.56 – Umbenennung in **Siles Empire** (Repos `Siles-Empire` und `SilesEmpireGithub`, neuer Link https://silescrow.github.io/SilesEmpireGithub/); interne Namen (Spielstände, Silescrow-ID `earth-empire`) bleiben, damit nichts verloren geht
+- [x] V1.57 – neue Bilder mit Siles-Empire-Logo (Ladebildschirm, Hauptmenü); Steinzeit: Fell-Banner mit Stammeszeichen in der Volksfarbe statt moderner Länderflagge (spätere Epochen bekommen passende historische Flaggen); Fahne nur noch am Stadtzentrum; Menü-Knöpfe (Ton, Vollbild, Beenden) unten links, damit das Logo frei ist
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
