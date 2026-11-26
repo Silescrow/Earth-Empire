@@ -8,10 +8,10 @@ Echtzeit-Strategie fürs Handy im Browser: Führe dein Volk von der Steinzeit bi
 |---|---|
 | `01_Hauptmenue` | `hauptmenue.jpg`, `ladebildschirm.jpg` (fürs Spiel) und die Originale `hauptmenue_original.png`, `ladebildschirm_original.png` |
 | `03_3D_Modelle` | nach Epochen sortiert: `01_Steinzeit/` bis `10_Zukunft/` (eine Nummer je Epoche) und `99_Reserve/`, darin nach Art (Gebäude, Zäune, Figuren, Waffen, Tiere, Natur, Deko, Wasser, Schiffe). Spiel-Fassung + Meshy-Original in `Original/` (große Originale in Teilen, siehe `03_3D_Modelle/LIESMICH.md`) |
-| `04_Musik` | `audio.js`: Musik und Geräusche, `Crowns_upon_the_Horizon.mp3` (Menü), `Before_the_Written_Word.mp3` (Spiel), `LIESMICH.md` |
+| `04_Musik` | `audio.js`: Musik und Geräusche, `crowns_upon_the_horizon.mp3` (Menü), `before_the_written_word.mp3` (Spiel), `LIESMICH.md` |
 | `05_Geraeusche` | Liste aller Spielgeräusche (`LIESMICH.md`) |
 | `06_Texte` | `Spielplan.md`: Zeitalter, Regeln, Steuerung und Reihenfolge |
-| `07_Vorlagen_Bilder` | `Bild-Prompts.md`, `Weltkarte_Landmaske.png` und Vorlagenbilder |
+| `07_Vorlagen_Bilder` | `Bild-Prompts.md`, `weltkarte_landmaske.png` und Vorlagenbilder |
 | `08_App` | App-Symbole und `manifest.webmanifest` für die installierte App |
 | `09_Alt` | nicht mehr benutzte Dateien: `Baeume_alt/` (alte Meshy-Bäume), `Musik_alt/where_the_morning_breathes.mp3` |
 | `10_Alle_Versionen` | alle Spielversionen ab `V1.00`, fortlaufend nummeriert (+0.01 pro Version); die neueste läuft online als `index.html` im Repository `EarthEmpireGithub` |
