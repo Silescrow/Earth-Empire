@@ -129,6 +129,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.64 – Ton-Knopf im Hauptmenü entfernt (Lautstärke über Einstellungen)
 - [x] V1.65 – Schließen-X ganz oben rechts, Vollbild darunter
 - [x] V1.66 – Vollbild und X nebeneinander oben rechts (X ganz rechts), Ton-Knopf wieder da – links unten
+- [x] V1.67 – Vollbild und X oben rechts enger beieinander
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
