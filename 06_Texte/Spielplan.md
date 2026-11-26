@@ -92,3 +92,4 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.29 – Blut bei Treffern (Spritzer + Lache); Bogen auf dem Rücken, beim Schießen senkrecht in der Hand mit Schießpose; Gebäude zerbrechen bei 0 Leben in fliegende Trümmer mit Physik und Staub; Lager/Hauptgebäude zeigen Holz-, Stein-, Gold- und Nahrungshaufen, die mit dem Vorrat wachsen
 - [x] V1.30 – Krieger mit echtem Caveman-Warrior-Modell und scharfer Textur (Gesicht nicht mehr vermatscht); Teamfarbe als Stirnband statt Ring um die Brust; Speer aufrecht in der Hand, Waffen sitzen richtig im Griff; Auswahl-Ring dünner
 - [x] V1.31 – Stirnband dünner; Waffen in echten Proportionen zum Körper (Axt 0,5 m, Speer 1,35 m, Bogen 1 m bei 1,5 m Körpergröße)
+- [x] V1.32 – Waffen sitzen in der Handfläche (Griffpunkt aus der echten Hand-Geometrie berechnet), nicht mehr in der Luft
