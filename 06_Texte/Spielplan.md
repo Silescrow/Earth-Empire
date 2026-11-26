@@ -126,6 +126,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.61 – Knopf für untätige Bauern über der Minikarte entfernt, Home-Knopf sitzt jetzt rechts neben der Minikarte (überlappt nichts mehr)
 - [x] V1.62 – Pferd und Antilope hatten Löcher (zu stark vereinfacht) – jetzt volle Geometrie (10.000 Dreiecke) mit Textur 1024
 - [x] V1.63 – Hauptmenü: Ton, Vollbild und Schließen oben rechts untereinander (überdecken das Logo nicht)
+- [x] V1.64 – Ton-Knopf im Hauptmenü entfernt (Lautstärke über Einstellungen)
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
