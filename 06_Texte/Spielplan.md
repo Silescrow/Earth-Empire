@@ -121,6 +121,8 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.56 – Umbenennung in **Siles Empire** (Repos `Siles-Empire` und `SilesEmpireGithub`, neuer Link https://silescrow.github.io/SilesEmpireGithub/); interne Namen (Spielstände, Silescrow-ID `earth-empire`) bleiben, damit nichts verloren geht
 - [x] V1.57 – neue Bilder mit Siles-Empire-Logo (Ladebildschirm, Hauptmenü); Steinzeit: Fell-Banner mit Stammeszeichen in der Volksfarbe statt moderner Länderflagge (spätere Epochen bekommen passende historische Flaggen); Fahne nur noch am Stadtzentrum; Menü-Knöpfe (Ton, Vollbild, Beenden) unten links, damit das Logo frei ist
 - [x] V1.58 – Logo im Hauptmenü gleichmäßig hell (die Abdunklung für die Knöpfe beginnt erst unter dem Logo)
+- [x] V1.59 – jede Zivilisation hat eine feste Farbe nach ihrer Flagge (Osmanen rot, Griechen blau, Germanen grün …), auch für die eroberten Gebiete; Gebiete erst weit herausgezoomt sichtbar; das Lager füllt sich sichtbar im Gebäude, am Stadtzentrum keine Rohstoffhaufen mehr
+- [x] V1.60 – Vogelschwärme: Vogel mit automatischem Skelett (Körper, Flügel, Flügelspitzen), Flügelschlag und Gleitflug, Schwärme ziehen über die Karte
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 

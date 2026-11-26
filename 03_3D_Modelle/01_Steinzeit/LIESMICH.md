@@ -57,6 +57,7 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 |---|---|---|
 | `antilope.glb` | Antilope (Jagd, 120 Nahrung), im Spiel | Original/antilope_original.glb – 1 MB |
 | `hase.glb` | Hase (Jagd, 35 Nahrung, hüpft), im Spiel | Original/hase_original.glb – 6 MB |
+| `vogel.glb` | Vogel („Ivory Flight“) – Vogelschwärme am Himmel, automatisches Skelett mit Flügelschlag, im Spiel seit V1.60 | Original/vogel_original.glb – 74 MB |
 | `pferd.glb` | Wildpferd (Jagd, 160 Nahrung), im Spiel | Original/pferd_original.glb – 1 MB |
 | `delfin.glb` | Delfin – springt im Meer, Schwimm-Skelett automatisch, im Spiel seit V1.36 | Original/delfin_original.glb – 32 MB |
 | `fisch.glb` | Fisch (Rohu) – Fischschwärme am Ufer (Nahrung) und frei schwimmend, Schwimm-Skelett automatisch, im Spiel seit V1.36 | Original/fisch_original.glb – 8 MB |
