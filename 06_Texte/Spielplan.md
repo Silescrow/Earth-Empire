@@ -56,6 +56,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 ## Weitere Wünsche
 - Rathaus ab der Antike (2. Epoche): nur 1 pro Gebiet, braucht Hauptgebäude im selben Gebiet; Bauern und Soldaten im ganzen Gebiet ca. 25 % schneller; später ausbaubar (Mittelalter +35 %, Neuzeit +50 %); Steinzeit bleibt langsam
 - Fest (Boost) ab dem Mittelalter (Ritterzeit): im Hauptgebäude/Rathaus starten, kostet viel Nahrung, 2 Min. alles 50 % schneller ausbilden, danach 5 Min. Pause; alle Boosts zusammen höchstens doppelt so schnell
+- Große Armeen: in späten Epochen mehrere hundert Soldaten in kurzer Zeit möglich (viele Kasernen, Ausbildung in Gruppen z. B. 5 auf einmal, höheres Bevölkerungslimit); dafür Technik: Soldaten in der Nähe detailliert, weiter weg vereinfacht und gebündelt gezeichnet (Instancing), damit auch das Handy flüssig bleibt
 - Karte immer aufgedeckt; weit herauszoomen bis zur ganzen Welt, Gegner sichtbar
 - Weltkarte in 4 Größen, frei wählbar; 1–17 Gegner oder alle
 - Stadtzentrum zeigt immer die Fahne (Wappen) der Zivilisation
