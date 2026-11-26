@@ -26,7 +26,7 @@ Stein-Schere-Papier: Infanterie > Bogenschützen, Kavallerie > Infanterie, Speer
 - Minikarte unten links, Kontrollgruppen 1–3, Vibration
 
 ## Spielmodi
-Freies Spiel (Karte, Gegner 1–3, Schwierigkeit, Start-Zeitalter), Tutorial (keine Kampagne).
+Freies Spiel (Karte, Gegner 1–3, Schwierigkeit, Start-Zeitalter) – keine Kampagne, kein Tutorial.
 Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 
 ## Reihenfolge
@@ -48,7 +48,6 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 - [ ] Einheiten, Kampf, ein KI-Gegner
 - [ ] Zeitalter 1–3
 - [ ] Zeitalter 4–7, Schiffe, Flugzeuge
-- [ ] Tutorial
 
 ## Vorbild Empire Earth II (alles soll rein, Epoche für Epoche)
 Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, Diplomatie (Krieg/Frieden/Allianz, Verträge mit Bedingungen, Territorien tauschen), Handel und Handelsrouten (Markt, Händler), Wetter und Jahreszeiten, Spezial-Rohstoffe (Metall, Öl …), Bürger-Manager, Kriegsplaner, große Übersichtskarte.
@@ -107,6 +106,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.41 – Nord- und Südpol auf der Karte (Antarktis und Packeis weiß); Sorten-Leiste oben links: je Sorte ein Knopf mit Anzahl (Bauern, Axtkrieger, Speerträger, Bogenschützen, alle Krieger) – antippen wählt alle aus (später auch Reiter, Schiffe, Flugzeuge, Hubschrauber); Kosten auf den Bau-Knöpfen grün (genug da) oder rot (fehlt); Hinweis, welche Rohstoffe fehlen, auch beim Drücken auf den grünen Haken
 - [x] V1.42 – Kampagne komplett entfernt (Hauptmenü: Spielen, Tutorial, Einstellungen)
 - [x] V1.43 – echte Icons aus den 3D-Modellen: Bauern und Krieger als ganze Figur (kein verschwommenes Gesicht), Gebäude (Stadtzentrum, Hütte, Lager, Palisade, Kriegerhütte, Wachturm) als kleines Bild, hochauflösend
+- [x] V1.44 – Tutorial entfernt (Hauptmenü: Spielen, Einstellungen)
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
