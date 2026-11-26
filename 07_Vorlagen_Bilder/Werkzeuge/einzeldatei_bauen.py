@@ -28,6 +28,6 @@ def inline(name):
     m=re.search(r'<script src="'+re.escape(name)+r'(\?v=[\d.]+)?"></script>', h); assert m, name
     code=open(os.path.join(src,name),encoding='utf8').read().replace('</script>','<\\/script>')
     h=h[:m.start()]+('' if name!='audio.js' else pre)+'<script>'+code+'</script>'+h[m.end():]
-for n in ['audio.js','three.min.js','game.js']: inline(n)
+for n in re.findall(r'<script src="([a-z0-9_.]+\.js)(?:\?v=[\d.]+)?"></script>', h): inline(n)
 open(out,'w',encoding='utf8').write(h)
 print(out, len(h)//1000000, 'MB', len(models),'Modelle')

@@ -117,6 +117,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.52 – Update klein unten mit Ladebalken: neue Version wird automatisch heruntergeladen und das Spiel startet neu (in einer Partie erst beim Öffnen des Menüs, Spielstand wird gespeichert); während des Ladens „Spielen“ ausgegraut
 - [x] V1.53 – PC-Steuerung wie Empire Earth 2 (Linksklick wählen, Rechtsklick befehlen, Rahmen ziehen, Doppelklick = alle gleichen, Strg+1–9 Gruppen, WASD/Pfeile/Bildschirmrand, Q/E drehen, Baukürzel E/L/K/T/Z/P/R, F = Bauer, H/Punkt/Leertaste/M/Entf/Esc); Online-Raum mit 4-stelligem Code (Lobby: jeder wählt sein Volk und Team, Gastgeber stellt Karte, Schwierigkeit und Plätze ein, Start erst wenn alle gewählt haben, alle Geräte starten gleichzeitig, Chat, Einladungs-Link); Spielen ohne Internet (Service Worker legt alles auf dem Gerät ab)
 - [x] V1.54 – Silescrow ID (gleiches System wie im Silescrow Cup, ein Konto für alle Spiele): Registrierung beim ersten Start Pflicht (Online-Name, E-Mail, 6-stellige PIN, Alter, Nutzungsbedingungen), danach bleibt man angemeldet und kann offline gegen die KI spielen; Spielstand automatisch in der Cloud; Freunde (suchen, Anfragen, entfernen); Online spielen nur mit ID und Internet (sonst ausgegraut): Raum entsteht automatisch, 🔓 offen oder 🔒 mit Passwort, Freunde einladen nur aus dem eigenen Raum (Eingeladene ohne Passwort), Räume der Freunde sehen und beitreten, kein Raumcode mehr; Admin-Bereich: Spieler mit Online-Status, Geschenke (Rohstoffe) und Nachrichten an einen oder alle, aus dem Spiel werfen, Spielstand löschen, sperren (in allen Spielen), Neuigkeiten im Hauptmenü, Support-Chat
+- [x] V1.55 – eroberte Gebiete beim Herauszoomen und auf der Minikarte in der Farbe des Volkes (durchsichtig, nur auf Land, mit Grenzlinie); Golderz ohne gelbe Kugeln (nur leicht warm getönt); Silescrow-ID-Knopf im Menü unten rechts (verdeckt nicht mehr den Spielnamen), im Spiel ausgeblendet
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
@@ -155,3 +156,8 @@ Ein gemeinsames **Silescrow ID**-Konto (Firebase-Projekt silescrow-cup) für all
 - [x] M3 – Freunde, Einladungen nur aus dem eigenen Raum, offene Räume von Freunden, Raum mit Schloss (V1.54)
 - [ ] M3b – dasselbe Online-System in den Silescrow Cup übertragen (Raum automatisch, 🔓/🔒, Einladen nur aus dem eigenen Raum)
 - [ ] M4 – Spielverlauf online übertragen (Gastgeber rechnet, Gäste sehen und befehlen)
+
+
+### Als Nächstes
+- Fenster ohne Scrollen (alles auf einen Blick), auch Online-Bereich und Silescrow ID
+- Verfolger-Kamera: Person antippen → „Folgen“, Kamera läuft hinter der Figur mit
