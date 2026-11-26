@@ -105,6 +105,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.39 – KI stark verbessert: Bauern nach Bedarf verteilt und umgesetzt, bis 45 Bauern, Hütten rechtzeitig, Lager an fernen Rohstoffen, bis 3 Kasernen, gemischte Armee, Wachtürme mit Besatzung, Land erweitern, Verteidigung aller Gebäude (Bauern helfen bei Übermacht), Angriffswellen mit Sammelpunkt und Rückzug, Schwierigkeit Leicht/Mittel/Schwer; Berge mit weichen Graten und Höhenstufen (Grün, Bergwald, Bergwiese/Fels, Schnee; Schneegrenze in den Tropen höher); Minikarte antippen öffnet große Weltkarte mit allen Gebieten und Völkern; Eis nur auf Land der Polgebiete
 - [x] V1.40 – Teamfarbe = Flaggenfarbe (Osmanen rot: Stirnband, Grenzpfosten, Minikarte, Auswahl); bei gleicher Farbe zweier Völker die zweite Flaggenfarbe, erst dann eine Ersatzfarbe; Gegner werden mit Volksnamen statt Farbnamen angezeigt
 - [x] V1.41 – Nord- und Südpol auf der Karte (Antarktis und Packeis weiß); Sorten-Leiste oben links: je Sorte ein Knopf mit Anzahl (Bauern, Axtkrieger, Speerträger, Bogenschützen, alle Krieger) – antippen wählt alle aus (später auch Reiter, Schiffe, Flugzeuge, Hubschrauber); Kosten auf den Bau-Knöpfen grün (genug da) oder rot (fehlt); Hinweis, welche Rohstoffe fehlen, auch beim Drücken auf den grünen Haken
+- [x] V1.42 – Kampagne komplett entfernt (Hauptmenü: Spielen, Tutorial, Einstellungen)
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
