@@ -136,6 +136,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.71 – Verfolger-Kamera: eine Figur auswählen → „Folgen“, Kamera hinter der Schulter läuft mit, Figur arbeitet selbst weiter; „Zurück“ beendet
 - [x] V1.72 – Größenverhältnis: Menschen 20 % kleiner (ca. 1,7 m), Hütten 3,6 und Lager 4,3 breit – Türen passen zur Körpergröße, Pferd im richtigen Verhältnis
 - [x] V1.73 – Palisaden docken an die Enden bestehender Palisaden an (geschlossene Ecken); Baufortschrittsbalken kleiner, bei Palisaden nur über dem Stück, das gerade gebaut wird
+- [x] V1.74 – Mauertürme: Palisade antippen → „Türme einbauen“, alle 10 m ein Turm (Enden immer), Preis wie Wachturm je Turm, reichen die Rohstoffe nicht, werden so viele gebaut wie möglich; Türme schießen selbst Pfeile, Krieger darauf kämpfen mit. Tor: ca. 5 m breit (aus mehreren Stücken), zwei Flügel öffnen sich für eigene und verbündete Leute, bleiben für Feinde zu – Feinde greifen das Tor an
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
@@ -180,9 +181,10 @@ Ein gemeinsames **Silescrow ID**-Konto (Firebase-Projekt silescrow-cup) für all
 - Fenster ohne Scrollen (alles auf einen Blick), auch Online-Bereich und Silescrow ID
 - Verfolger-Kamera: Person antippen → „Folgen“, Kamera läuft hinter der Figur mit
 
-## Geplant: Mauertürme (ab den Burg-Epochen)
-- [ ] Mauer antippen → Knopf „Türme einbauen“: setzt automatisch alle ca. 10 m einen Turm in die Mauer, Ecken und Enden immer mit Turm
-- [ ] Vorschau mit Gesamtpreis vor dem Bestätigen, Bauern bauen die Türme nacheinander
-- [ ] Türme brauchen keine Besatzung: schießen selbst Pfeile, wenn Gegner kommen
-- [ ] Spätere Epochen: andere Munition (z. B. Armbrust, Kanone) je Epoche
-- [ ] Optional schon in der Steinzeit: kleine Holz-Wachposten in der Palisade
+## Mauertürme und Tore – weitere Epochen
+- [x] Steinzeit: Holz-Mauertürme in der Palisade, schießen Pfeile (V1.74)
+- [ ] Je Epoche eigener Turm und eigene Munition: Pfeile → Armbrust → Kanone → MG; Besatzung erhöht den Angriff (wie EE II)
+- [ ] Tore immer im Material der Mauer (Holz, Stein, Beton), in der Moderne aus Metall
+- [ ] Moderne/Zukunft: Schiebetore statt Flügeltore
+- [ ] Torbreite wächst mit den Epochen – später passen mehrere Panzer nebeneinander durch
+- [ ] Belagerung einer Burg: Feinde müssen Tore und Türme zerstören
