@@ -98,6 +98,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.34 – (andere Sitzung) Wachturm mit Besatzung (bis 4 Krieger oben), Wetter und Geräusche je Region, Temperaturanzeige, Weltkarte mit allen Inseln
 - [x] V1.35 – Wellen bewegen sich sichtbar (laufende Wellenzüge, schnellere Strömung, Brandung läuft aufs Ufer zu); Tropen-Wasser hell türkis (z. B. Malediven, Karibik), im Norden dunkelblau; klares Wasser – am Rand sieht man den Sandboden, in den Tropen besonders weit
 - [x] V1.36 – Fischen: Fischschwärme im flachen Wasser am Ufer (220 Nahrung), Bauern fischen vom Ufer mit dem Speer; frei schwimmende Fischschwärme; Delfine springen in Gruppen im warmen Meer; Fische und Delfine mit automatischem Schwimm-Skelett
+- [x] V1.37 – Minikarte mit Vegetationszonen: Regenwald (dunkelgrün, z. B. Mittelafrika, Amazonas), Savanne, Steppe, Wüste, gemäßigt, Taiga, Tundra, Gebirge, Schnee/Eis; Küsten in den Tropen türkis
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
