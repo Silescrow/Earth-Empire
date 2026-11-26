@@ -54,6 +54,7 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, Diplomatie (Krieg/Frieden/Allianz, Verträge mit Bedingungen, Territorien tauschen), Handel und Handelsrouten (Markt, Händler), Wetter und Jahreszeiten, Spezial-Rohstoffe (Metall, Öl …), Bürger-Manager, Kriegsplaner, große Übersichtskarte.
 
 ## Weitere Wünsche
+- Mauern je Epoche: Holz-Palisaden nur in Steinzeit/Antike; ab späteren Epochen (Mittelalter usw.) eigene Mauern (Steinmauern, Burgmauern, später Beton/Bunker) – Assets kommen später vom Nutzer
 - Gebäude-Aufgaben (fest, ab Antike):
   - Hauptgebäude (Stadtzentrum): bildet Bauern aus (alle Epochen), macht ein Gebiet zu eigenem Land, Rohstoff-Abgabe, Diplomatie bleibt hier
   - Rathaus (ab Antike, 1 pro Gebiet): Steuern = alle 30 s Gold je nach Bewohnern (fester Satz); Bauern im Gebiet 25 % schneller; Grenzschutz: solange es steht, kann der Gegner das Gebiet nicht übernehmen; später ausbaubar
@@ -93,3 +94,32 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.30 – Krieger mit echtem Caveman-Warrior-Modell und scharfer Textur (Gesicht nicht mehr vermatscht); Teamfarbe als Stirnband statt Ring um die Brust; Speer aufrecht in der Hand, Waffen sitzen richtig im Griff; Auswahl-Ring dünner
 - [x] V1.31 – Stirnband dünner; Waffen in echten Proportionen zum Körper (Axt 0,5 m, Speer 1,35 m, Bogen 1 m bei 1,5 m Körpergröße)
 - [x] V1.32 – Waffen sitzen in der Handfläche (Griffpunkt aus der echten Hand-Geometrie berechnet), nicht mehr in der Luft
+
+## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
+
+Steinzeit: alle gleich (nur Teamfarbe/Wappen). Ab der Antike Baustil und Soldaten je Kulturkreis, dazu 1–2 Spezialeinheiten je Volk.
+
+| Kulturkreis | Völker | Stil |
+|---|---|---|
+| Naher Osten | Osmanen, Ägypter, Babylonier | Lehm, Kuppeln |
+| Mittelmeer | Römer, Griechen | Säulen, Marmor |
+| Nordeuropa | Germanen, Briten, Franken, Wikinger, Russen | Holz, Fachwerk |
+| Ostasien | Chinesen, Japaner, Koreaner, Mongolen | geschwungene Dächer |
+| Amerika | Azteken, Inka, Maya | Stufenpyramiden, Stein |
+| Afrika | Zulu | Rundhütten, Kraal |
+
+## Meilensteine (Stück für Stück)
+
+Steinzeit abschließen:
+- [ ] S1 Fischen vom Ufer
+- [ ] S2 Wachturm (Asset fehlt noch)
+- [ ] S3 KI stärker, Balance
+- [ ] S4 Aufstieg in die Antike (Kosten, Wartezeit, Wechsel der Modelle)
+
+Antike (Osmanen zuerst):
+- [ ] A1 Naher-Osten-Gebäude: Hauptgebäude, Wohnhaus, Lager, Kaserne
+- [ ] A2 Naher-Osten-Bauern und Soldaten (Speer, Bogen) + osmanische Spezialeinheit
+- [ ] A3 Bauernhof mit Feldern
+- [ ] A4 Rathaus (Steuern, Bauern +25 %, Grenzschutz)
+- [ ] A5 Reitstall und Reiter
+- [ ] A6 nächster Kulturkreis (danach einer nach dem anderen)
