@@ -103,6 +103,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.37 – Minikarte mit Vegetationszonen: Regenwald (dunkelgrün, z. B. Mittelafrika, Amazonas), Savanne, Steppe, Wüste, gemäßigt, Taiga, Tundra, Gebirge, Schnee/Eis; Küsten in den Tropen türkis
 - [x] V1.38 – Hohe Berge: Gebirge mehr als doppelt so hoch, Hochgebirge nicht begehbar und nicht bebaubar (nur am Fuß des Bergs); berühmte Gipfel an ihrem echten Ort (Everest, K2, Aconcagua, Denali, Kilimandscharo, Elbrus, Ararat, Mont Blanc, Matterhorn, Fuji u. a.); Gipfelschnee erst ab Schneegrenze, Eis nur an den Polen
 - [x] V1.39 – KI stark verbessert: Bauern nach Bedarf verteilt und umgesetzt, bis 45 Bauern, Hütten rechtzeitig, Lager an fernen Rohstoffen, bis 3 Kasernen, gemischte Armee, Wachtürme mit Besatzung, Land erweitern, Verteidigung aller Gebäude (Bauern helfen bei Übermacht), Angriffswellen mit Sammelpunkt und Rückzug, Schwierigkeit Leicht/Mittel/Schwer; Berge mit weichen Graten und Höhenstufen (Grün, Bergwald, Bergwiese/Fels, Schnee; Schneegrenze in den Tropen höher); Minikarte antippen öffnet große Weltkarte mit allen Gebieten und Völkern; Eis nur auf Land der Polgebiete
+- [x] V1.40 – Teamfarbe = Flaggenfarbe (Osmanen rot: Stirnband, Grenzpfosten, Minikarte, Auswahl); bei gleicher Farbe zweier Völker die zweite Flaggenfarbe, erst dann eine Ersatzfarbe; Gegner werden mit Volksnamen statt Farbnamen angezeigt
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
