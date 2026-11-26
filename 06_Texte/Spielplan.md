@@ -134,6 +134,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.69 – Haus-Knopf springt nur zum Hauptgebäude, öffnet kein Fenster mehr
 - [x] V1.70 – Kompass-Knopf neben dem Haus: dreht die Kamera zurück auf die Achse der Weltkarte (Norden oben), Zoom bleibt; Nadel zeigt immer nach Norden
 - [x] V1.71 – Verfolger-Kamera: eine Figur auswählen → „Folgen“, Kamera hinter der Schulter läuft mit, Figur arbeitet selbst weiter; „Zurück“ beendet
+- [x] V1.72 – Größenverhältnis: Menschen 20 % kleiner (ca. 1,7 m), Hütten 3,6 und Lager 4,3 breit – Türen passen zur Körpergröße, Pferd im richtigen Verhältnis
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
