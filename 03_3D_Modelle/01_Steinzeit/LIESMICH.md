@@ -65,9 +65,9 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 
 | Spiel-Fassung | Beschreibung | Meshy-Original |
 |---|---|---|
-| `fels.glb` | Steinvorkommen, im Spiel | Original/fels_original.glb – 8 MB |
-| `monolith.glb` | Große Steinbrocken, im Spiel | Original/monolith_original.glb – 83 MB |
-| `erz.glb` | Metall- und Goldvorkommen, im Spiel | Original/erz_original.glb – 1 MB |
+| `fels.glb` | Steinvorkommen (bis V1.45 im Spiel, seit V1.46 durch `monolith.glb` ersetzt) | Original/fels_original.glb – 8 MB |
+| `monolith.glb` | Steinbrocken und Steinvorkommen, im Spiel – seit V1.46 mit scharfer Textur (2048) | Original/monolith_original.glb – 83 MB |
+| `erz.glb` | Metall- und Goldvorkommen, im Spiel – seit V1.46 mit scharfer Textur (2048) | Original/erz_original.glb – 1 MB |
 
 ## Deko
 
