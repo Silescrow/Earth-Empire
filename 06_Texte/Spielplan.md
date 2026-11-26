@@ -95,6 +95,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.31 – Stirnband dünner; Waffen in echten Proportionen zum Körper (Axt 0,5 m, Speer 1,35 m, Bogen 1 m bei 1,5 m Körpergröße)
 - [x] V1.32 – Waffen sitzen in der Handfläche (Griffpunkt aus der echten Hand-Geometrie berechnet), nicht mehr in der Luft
 - [x] V1.33 – Wachturm (Steinzeit): 100 Holz + 50 Stein, schießt Pfeile auf Feinde in 13 m Reichweite; Assets nach Epochen-Ordnern 01–10 sortiert, neue Türme/Bunker für spätere Epochen archiviert
+- [x] V1.34 – Wellen bewegen sich sichtbar (laufende Wellenzüge, schnellere Strömung, Brandung läuft aufs Ufer zu); Tropen-Wasser hell türkis (z. B. Malediven, Karibik), im Norden dunkelblau
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
