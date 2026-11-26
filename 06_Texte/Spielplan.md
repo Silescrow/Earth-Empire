@@ -114,6 +114,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.49 – Fenster-Design je Epoche: Steinzeit = Steinplatte mit Knochen (Bedienfeld, Bau-Leiste, Knöpfe, Sorten-Leiste, Rohstoffe); Bilder für alle 10 Epochen in `07_Vorlagen_Bilder/Epochen_Fenster`; Auswahl kompakt: ein Bild je Sorte mit der Anzahl darauf
 - [x] V1.50 – automatisches Update: das Spiel prüft alle 2 Minuten `version.txt`; gibt es eine neue Version, kommt ein kurzer Hinweis und sie wird geladen (im laufenden Spiel erst beim Öffnen des Menüs, Spielstand wird vorher gespeichert); bis dahin „Spielen“ ausgegraut, nur „Update“ und „Einstellungen“ gehen; der Link bleibt immer gleich
 - [x] V1.51 – Tipp-Fenster klein (eine Zeile unten rechts) und nach 30 Sekunden ganz weg
+- [x] V1.52 – Update klein unten mit Ladebalken: neue Version wird automatisch heruntergeladen und das Spiel startet neu (in einer Partie erst beim Öffnen des Menüs, Spielstand wird gespeichert); während des Ladens „Spielen“ ausgegraut
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
