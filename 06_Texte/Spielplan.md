@@ -109,6 +109,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.44 – Tutorial entfernt (Hauptmenü: Spielen, Einstellungen)
 - [x] V1.45 – Icons mit Kopf, höchste Auflösung (512 px, auch für PC); wer eine ganze Sorte ausgewählt hat und neben/auf die eigenen Leute tippt, schickt alle dorthin (Auswahl bleibt komplett)
 - [x] V1.46 – Bedienfeld unten edel gestaltet (Goldrahmen, Leuchten hinter den Bildern, Kosten in dunklen Feldern); Beeren klein und in Trauben wie echt; Steine und Erz mit scharfer Textur; Kamera wird beim Heranzoomen flacher (realistischer Blick)
+- [x] V1.47 – Hütten (Wohnhäuser) ohne Fahne – die Fahnen hingen in der Luft
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
