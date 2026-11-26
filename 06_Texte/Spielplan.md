@@ -112,6 +112,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.47 – Hütten (Wohnhäuser) ohne Fahne – die Fahnen hingen in der Luft
 - [x] V1.48 – Baumenü erst über den Hammer-Knopf „Bauen“ (wie in EE2); Auswahl von Bauern oder ganzer Truppe zeigt zuerst nur die Auswahl, mit „Zurück“ wieder raus
 - [x] V1.49 – Fenster-Design je Epoche: Steinzeit = Steinplatte mit Knochen (Bedienfeld, Bau-Leiste, Knöpfe, Sorten-Leiste, Rohstoffe); Bilder für alle 10 Epochen in `07_Vorlagen_Bilder/Epochen_Fenster`; Auswahl kompakt: ein Bild je Sorte mit der Anzahl darauf
+- [x] V1.50 – automatisches Update: das Spiel prüft alle 2 Minuten `version.txt`; gibt es eine neue Version, kommt ein kurzer Hinweis und sie wird geladen (im laufenden Spiel erst beim Öffnen des Menüs, Spielstand wird vorher gespeichert); bis dahin „Spielen“ ausgegraut, nur „Update“ und „Einstellungen“ gehen; der Link bleibt immer gleich
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
