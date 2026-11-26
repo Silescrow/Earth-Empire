@@ -54,6 +54,7 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, Diplomatie (Krieg/Frieden/Allianz, Verträge mit Bedingungen, Territorien tauschen), Handel und Handelsrouten (Markt, Händler), Wetter und Jahreszeiten, Spezial-Rohstoffe (Metall, Öl …), Bürger-Manager, Kriegsplaner, große Übersichtskarte.
 
 ## Weitere Wünsche
+- Rathaus ab Bronzezeit: nur 1 pro Gebiet, braucht Hauptgebäude im selben Gebiet; Bauern und Soldaten im ganzen Gebiet ca. 25 % schneller; später ausbaubar (Antike +35 %, Mittelalter +50 %); Steinzeit bleibt langsam
 - Karte immer aufgedeckt; weit herauszoomen bis zur ganzen Welt, Gegner sichtbar
 - Weltkarte in 4 Größen, frei wählbar; 1–17 Gegner oder alle
 - Stadtzentrum zeigt immer die Fahne (Wappen) der Zivilisation
