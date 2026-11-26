@@ -97,6 +97,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.33 – Wachturm (Steinzeit): 100 Holz + 50 Stein, schießt Pfeile auf Feinde in 13 m Reichweite; Assets nach Epochen-Ordnern 01–10 sortiert, neue Türme/Bunker für spätere Epochen archiviert
 - [x] V1.34 – (andere Sitzung) Wachturm mit Besatzung (bis 4 Krieger oben), Wetter und Geräusche je Region, Temperaturanzeige, Weltkarte mit allen Inseln
 - [x] V1.35 – Wellen bewegen sich sichtbar (laufende Wellenzüge, schnellere Strömung, Brandung läuft aufs Ufer zu); Tropen-Wasser hell türkis (z. B. Malediven, Karibik), im Norden dunkelblau; klares Wasser – am Rand sieht man den Sandboden, in den Tropen besonders weit
+- [x] V1.36 – Fischen: Fischschwärme im flachen Wasser am Ufer (220 Nahrung), Bauern fischen vom Ufer mit dem Speer; frei schwimmende Fischschwärme; Delfine springen in Gruppen im warmen Meer; Fische und Delfine mit automatischem Schwimm-Skelett
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
@@ -114,7 +115,7 @@ Steinzeit: alle gleich (nur Teamfarbe/Wappen). Ab der Antike Baustil und Soldate
 ## Meilensteine (Stück für Stück)
 
 Steinzeit abschließen:
-- [ ] S1 Fischen vom Ufer
+- [x] S1 Fischen vom Ufer (V1.36)
 - [x] S2 Wachturm (V1.33)
 - [ ] S3 KI stärker, Balance
 - [ ] S4 Aufstieg in die Antike (Kosten, Wartezeit, Wechsel der Modelle)
