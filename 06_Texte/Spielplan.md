@@ -127,6 +127,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.62 – Pferd und Antilope hatten Löcher (zu stark vereinfacht) – jetzt volle Geometrie (10.000 Dreiecke) mit Textur 1024
 - [x] V1.63 – Hauptmenü: Ton, Vollbild und Schließen oben rechts untereinander (überdecken das Logo nicht)
 - [x] V1.64 – Ton-Knopf im Hauptmenü entfernt (Lautstärke über Einstellungen)
+- [x] V1.65 – Schließen-X ganz oben rechts, Vollbild darunter
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
