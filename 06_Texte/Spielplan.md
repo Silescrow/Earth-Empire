@@ -54,6 +54,8 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, Diplomatie (Krieg/Frieden/Allianz, Verträge mit Bedingungen, Territorien tauschen), Handel und Handelsrouten (Markt, Händler), Wetter und Jahreszeiten, Spezial-Rohstoffe (Metall, Öl …), Bürger-Manager, Kriegsplaner, große Übersichtskarte.
 
 ## Weitere Wünsche
+- Später (Schiffe): Delfine tauchen manchmal vor fahrenden Schiffen auf und springen (auch bei Piratenschiffen)
+- Später: Fischerboote/Anglerschiffe bauen – fangen auf dem Wasser mehr Fisch als Bauern vom Ufer
 - Mauern je Epoche: Holz-Palisaden nur in Steinzeit/Antike; ab späteren Epochen (Mittelalter usw.) eigene Mauern (Steinmauern, Burgmauern, später Beton/Bunker) – Assets kommen später vom Nutzer
 - Gebäude-Aufgaben (fest, ab Antike):
   - Hauptgebäude (Stadtzentrum): bildet Bauern aus (alle Epochen), macht ein Gebiet zu eigenem Land, Rohstoff-Abgabe, Diplomatie bleibt hier
@@ -99,6 +101,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.35 – Wellen bewegen sich sichtbar (laufende Wellenzüge, schnellere Strömung, Brandung läuft aufs Ufer zu); Tropen-Wasser hell türkis (z. B. Malediven, Karibik), im Norden dunkelblau; klares Wasser – am Rand sieht man den Sandboden, in den Tropen besonders weit
 - [x] V1.36 – Fischen: Fischschwärme im flachen Wasser am Ufer (220 Nahrung), Bauern fischen vom Ufer mit dem Speer; frei schwimmende Fischschwärme; Delfine springen in Gruppen im warmen Meer; Fische und Delfine mit automatischem Schwimm-Skelett
 - [x] V1.37 – Minikarte mit Vegetationszonen: Regenwald (dunkelgrün, z. B. Mittelafrika, Amazonas), Savanne, Steppe, Wüste, gemäßigt, Taiga, Tundra, Gebirge, Schnee/Eis; Küsten in den Tropen türkis
+- [x] V1.38 – Hohe Berge: Gebirge mehr als doppelt so hoch, Hochgebirge nicht begehbar und nicht bebaubar (nur am Fuß des Bergs); berühmte Gipfel an ihrem echten Ort (Everest, K2, Aconcagua, Denali, Kilimandscharo, Elbrus, Ararat, Mont Blanc, Matterhorn, Fuji u. a.); Gipfelschnee erst ab Schneegrenze, Eis nur an den Polen
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
