@@ -54,7 +54,11 @@ Sieg: alle Gegner besiegen oder ein Wunder 5 Minuten halten.
 Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, Diplomatie (Krieg/Frieden/Allianz, Verträge mit Bedingungen, Territorien tauschen), Handel und Handelsrouten (Markt, Händler), Wetter und Jahreszeiten, Spezial-Rohstoffe (Metall, Öl …), Bürger-Manager, Kriegsplaner, große Übersichtskarte.
 
 ## Weitere Wünsche
-- Rathaus ab der Antike (2. Epoche): nur 1 pro Gebiet, braucht Hauptgebäude im selben Gebiet; nur Bauern im ganzen Gebiet ca. 25 % schneller (Soldaten über Kasernen); später ausbaubar (Mittelalter +35 %, Neuzeit +50 %); Steinzeit bleibt langsam
+- Gebäude-Aufgaben (fest, ab Antike):
+  - Hauptgebäude (Stadtzentrum): bildet Bauern aus (alle Epochen), macht ein Gebiet zu eigenem Land, Rohstoff-Abgabe, Diplomatie bleibt hier
+  - Rathaus (ab Antike, 1 pro Gebiet): Steuern = alle 30 s Gold je nach Bewohnern (fester Satz); Bauern im Gebiet 25 % schneller; Grenzschutz: solange es steht, kann der Gegner das Gebiet nicht übernehmen; später ausbaubar
+  - Kaserne: bildet Soldaten aus, 2–3 pro Gebiet, ab Mittelalter in Gruppen
+  - Bauernhof (ab Antike): Felder für Nahrung
 - Fest (Boost) ab dem Mittelalter (Ritterzeit): im Hauptgebäude/Rathaus starten, kostet viel Nahrung, 2 Min. alles 50 % schneller ausbilden, danach 5 Min. Pause; alle Boosts zusammen höchstens doppelt so schnell
 - Soldaten-Tempo über Kasernen: 2–3 Kasernen pro Gebiet, mehr Gebiete = mehr Kasernen gleichzeitig; ab Mittelalter Ausbildung in Gruppen (5, Neuzeit 10, Weltkriege 20 auf einmal)
 - Große Armeen: in späten Epochen mehrere hundert Soldaten in kurzer Zeit möglich (viele Kasernen, Ausbildung in Gruppen z. B. 5 auf einmal, höheres Bevölkerungslimit); dafür Technik: Soldaten in der Nähe detailliert, weiter weg vereinfacht und gebündelt gezeichnet (Instancing), damit auch das Handy flüssig bleibt
