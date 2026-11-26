@@ -11,9 +11,9 @@ Echtzeit-Strategie fürs Handy im Browser: Führe dein Volk von der Steinzeit bi
 | `04_Musik` | `audio.js`: Musik und Geräusche, `crowns_upon_the_horizon.mp3` (Menü), `before_the_written_word.mp3` (Spiel), `LIESMICH.md` |
 | `05_Geraeusche` | Liste aller Spielgeräusche (`LIESMICH.md`) |
 | `06_Texte` | `Spielplan.md`: Zeitalter, Regeln, Steuerung und Reihenfolge |
-| `07_Vorlagen_Bilder` | `Bild-Prompts.md`, `weltkarte_landmaske.png` und Vorlagenbilder |
+| `07_Vorlagen_Bilder` | `Bild-Prompts.md`, `weltkarte_landmaske.png` und Vorlagenbilder; in `Werkzeuge/` die Hilfsprogramme (Weltkarte erzeugen, Modelle verkleinern, Einzeldatei bauen) |
 | `08_App` | App-Symbole und `manifest.webmanifest` für die installierte App |
-| `09_Alt` | nicht mehr benutzte Dateien: `Baeume_alt/` (alte Meshy-Bäume), `Musik_alt/where_the_morning_breathes.mp3` |
+| `09_Alt` | nicht mehr benutzte Dateien: `Baeume_alt/` (alte Meshy-Bäume mit Originalen), `Musik_alt/where_the_morning_breathes.mp3` – siehe `09_Alt/LIESMICH.md` |
 | `10_Alle_Versionen` | alle Spielversionen ab `V1.00`, fortlaufend nummeriert (+0.01 pro Version); die neueste läuft online als `index.html` im Repository `EarthEmpireGithub` |
 
 Zum Spielen reicht die neueste Datei in `10_Alle_Versionen` – alle Bilder sind dort eingebaut.

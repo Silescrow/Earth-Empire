@@ -6,30 +6,31 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 
 | Spiel-Fassung | Beschreibung | Meshy-Original |
 |---|---|---|
-| `rundhuette.glb` | Hütte (Wohnhaus); doppelt so groß auch Stadtzentrum – im Spiel | – (Original nicht vorhanden) |
+| `rundhuette.glb` | Hütte (Wohnhaus); doppelt so groß auch Stadtzentrum – im Spiel | Original/rundhuette_original.glb – 9 MB |
 | `grosse_huette.glb` | Große Stammeshütte – Stadtzentrum-Variante, im Spiel | Original/grosse_huette_original.glb – 52 MB |
 | `zelt.glb` | Zelt – Wohnhaus-Variante, im Spiel | Original/zelt_original.glb – 6 MB |
-| `steinhaus.glb` | Steinhaus – Lager, im Spiel | – (Original nicht vorhanden) |
+| `steinhaus.glb` | Steinhaus – Lager, im Spiel | Original/steinhaus_original.glb – 18 MB |
 | `vorratshuette.glb` | Vorratshütte – Lager-Variante, im Spiel | Original/vorratshuette_original.glb – 53 MB |
 | `kornspeicher.glb` | Kornspeicher – Lager-Variante, im Spiel | Original/kornspeicher_original.glb – 22 MB |
-| `knochenhuette.glb` | Knochenhütte (früher Stadtzentrum, Reserve) | – (Original nicht vorhanden) |
-| `wachturm.glb` | Wachturm aus gebundenen Stangen – schießt Pfeile, im Spiel seit V1.33 | Original/wachturm_original.glb – 16 MB |
+| `knochenhuette.glb` | Knochenhütte (früher Stadtzentrum, Reserve) | Original/knochenhuette_original.glb (in 2 Teilen) – 162 MB |
+| `wachturm.glb` | Hölzerner Wachturm mit Plattform – bis zu 4 Krieger oben, geschützt, schießen weiter; im Spiel seit V1.34 (Dach oben im Spiel weggeschnitten, damit man die Krieger sieht) | Original/wachturm_original.glb – 28 MB |
 | `zahnhaus.glb` | Haus der Zähne – Kriegerhütte | Original/zahnhaus_original.glb (in 2 Teilen) – 99 MB |
 | `zahnhaus2.glb` | Haus der Zähne, zweite Fassung – Kriegerhütte-Variante, im Spiel | – (Original nicht vorhanden) |
 | `festung.glb` | Stachel-Holzfestung – Kriegerhütte-Variante, im Spiel | Original/festung_original.glb – 66 MB |
 | `aussenposten.glb` | Außenposten – Kriegerhütte-Variante, im Spiel | Original/aussenposten_original.glb – 18 MB |
-| `lagerfeuer.glb` | Lagerfeuer am Stadtzentrum, im Spiel | – (Original nicht vorhanden) |
+| `lagerfeuer.glb` | Lagerfeuer am Stadtzentrum, im Spiel | Original/lagerfeuer_original.glb – 2 MB |
+| – | Osterfeuer / zweites Lagerfeuer (nicht im Spiel) | Original/lagerfeuer_osterfeuer_original.glb – 2 MB |
 
 ## Zaeune
 
 | Spiel-Fassung | Beschreibung | Meshy-Original |
 |---|---|---|
-| `zaun.glb` | Palisade ums Stadtzentrum, im Spiel | – (Original nicht vorhanden) |
-| `palisade.glb` | Palisadenmauer zum Bauen, im Spiel | – (Original nicht vorhanden) |
+| `zaun.glb` | Palisade ums Stadtzentrum, im Spiel | Original/zaun_original.glb – 1 MB |
+| `palisade.glb` | Palisadenmauer zum Bauen, im Spiel | Original/palisade_original.glb – 30 MB |
 | `palisadenring.glb` | Runder Palisadenring aus Knochen und Holz (für später) | Original/palisadenring_original.glb – 41 MB |
-| `zaun_knochen.glb` | Knochen-Zaun zum Selbstbauen | – (Original nicht vorhanden) |
-| `weidezaun.glb` | Weidezaun (später) | – (Original nicht vorhanden) |
-| `flechtzaun.glb` | Flechtzaun (Steinzeit/Antike) | – (Original nicht vorhanden) |
+| `zaun_knochen.glb` | Knochen-Zaun zum Selbstbauen | Original/zaun_knochen_original.glb – 7 MB |
+| `weidezaun.glb` | Weidezaun (später) | Original/weidezaun_original.glb – 13 MB |
+| `flechtzaun.glb` | Flechtzaun (Steinzeit/Antike) | Original/flechtzaun_original.glb – 7 MB |
 | `palisade2.glb` | Holzpalisade, zweite Fassung | – (Original nicht vorhanden) |
 | `barrikade.glb` | Holzbarrikade, im Spiel vor der Kriegerhütte | Original/barrikade_original.glb – 28 MB |
 
@@ -37,8 +38,8 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 
 | Spiel-Fassung | Beschreibung | Meshy-Original |
 |---|---|---|
-| `hoehlenmann.glb` | Bauer (Mann), Skelett automatisch im Spiel | – (Original nicht vorhanden) |
-| `hoehlenfrau.glb` | Bäuerin (Frau), Skelett automatisch im Spiel | – (Original nicht vorhanden) |
+| `hoehlenmann.glb` | Bauer (Mann), Skelett automatisch im Spiel | Original/hoehlenmann_original.glb – 35 MB |
+| `hoehlenfrau.glb` | Bäuerin (Frau), Skelett automatisch im Spiel | Original/hoehlenfrau_original.glb – 29 MB |
 | `krieger.glb` | Krieger im Spiel: 9.000 Dreiecke, scharfe Textur 2048 | Original/krieger_original.glb (in 2 Teilen) – 117 MB |
 | `hoehlenkrieger.glb` | Höhlenkrieger, 34.000 Dreiecke (Reserve) | – (Original nicht vorhanden) |
 
@@ -64,9 +65,9 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 
 | Spiel-Fassung | Beschreibung | Meshy-Original |
 |---|---|---|
-| `fels.glb` | Steinvorkommen, im Spiel | – (Original nicht vorhanden) |
-| `monolith.glb` | Große Steinbrocken, im Spiel | – (Original nicht vorhanden) |
-| `erz.glb` | Metall- und Goldvorkommen, im Spiel | – (Original nicht vorhanden) |
+| `fels.glb` | Steinvorkommen, im Spiel | Original/fels_original.glb – 8 MB |
+| `monolith.glb` | Große Steinbrocken, im Spiel | Original/monolith_original.glb – 83 MB |
+| `erz.glb` | Metall- und Goldvorkommen, im Spiel | Original/erz_original.glb – 1 MB |
 
 ## Deko
 
@@ -76,6 +77,7 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `bank.glb` | Holzbank, im Spiel | Original/bank_original.glb – 10 MB |
 | `thron.glb` | Häuptlingsthron, im Spiel | Original/thron_original.glb – 73 MB |
 | `werkzeuge.glb` | Werkzeug-Sammlung, im Spiel | Original/werkzeuge_original.glb – 36 MB |
+| – | Steinzeit-Werkzeuge und -Waffen (Speer, Hammer, Messer – nicht im Spiel) | Original/werkzeuge_waffen_original.glb – 21 MB |
 | `leiter.glb` | Leiter, im Spiel | Original/leiter_original.glb – 12 MB |
 | `trog.glb` | Holztrog, im Spiel | Original/trog_original.glb – 3 MB |
 | `fellgestell.glb` | Fell auf Holzrahmen, im Spiel | Original/fellgestell_original.glb – 49 MB |

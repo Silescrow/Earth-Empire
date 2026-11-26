@@ -18,10 +18,11 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 
 | Spiel-Fassung | Beschreibung | Meshy-Original |
 |---|---|---|
-| `holzzaun.glb` | Holzzaun zur Verteidigung | – (Original nicht vorhanden) |
-| `balkenzaun.glb` | Balkenzaun – Weide | – (Original nicht vorhanden) |
-| `zaun_rustikal.glb` | Rustikaler Zaun – Weide | – (Original nicht vorhanden) |
-| `zaun_geflochten2.glb` | Geflochtener Zaun – Felder | – (Original nicht vorhanden) |
+| `holzzaun.glb` | Holzzaun zur Verteidigung | Original/holzzaun_original.glb – 32 MB |
+| `balkenzaun.glb` | Balkenzaun – Weide | Original/balkenzaun_original.glb – 17 MB |
+| `zaun_rustikal.glb` | Rustikaler Zaun – Weide | Original/zaun_rustikal_original.glb – 91 MB |
+| `zaun_geflochten2.glb` | Geflochtener Zaun – Felder | Original/zaun_geflochten_original.glb – 10 MB |
+| – | Verwitterter Zaun (noch nicht verkleinert) | Original/zaun_verwittert_original.glb – 13 MB |
 
 ## Schiffe
 

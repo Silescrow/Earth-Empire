@@ -8,9 +8,3 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 |---|---|---|
 | `langschwert.glb` | Langschwert | Original/langschwert_original.glb – 6 MB |
 | `schwert_waechter.glb` | Schwert „Silent Sentinel“ | Original/schwert_waechter_original.glb – 39 MB |
-
-## Gebäude
-
-| Spiel-Fassung | Beschreibung | Meshy-Original |
-|---|---|---|
-| – (kommt mit der Epoche) | Hölzerner Wachturm mit Dach | Original/wachturm_holz_original.glb – 29 MB |
