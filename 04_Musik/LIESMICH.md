@@ -3,7 +3,7 @@
 Musik von Suno als MP3, abgespielt über `audio.js` (dort entstehen auch die Geräusche). Eine Musik für alle Epochen.
 
 **Hauptmenü**
-- „Crowns upon the Horizon“ (`crowns_upon_the_horizon.mp3`, im Spiel `musik_menue.mp3`): Ladebildschirm und Hauptmenü, in Schleife
+- „A Thousand Years of Stone“ (`a_thousand_years_of_stone.mp3`, im Spiel `musik_menue.mp3` mit 128 kbit/s): Ladebildschirm und Hauptmenü, in Schleife (seit V2.19)
 
 **Im Spiel – ruhig (zufällige Reihenfolge, nie zweimal hintereinander)**
 | Lied | Datei hier | im Spiel |
@@ -17,4 +17,4 @@ Musik von Suno als MP3, abgespielt über `audio.js` (dort entstehen auch die Ger
 **Im Spiel – Krieg**
 - „Valley of the War Horns“ (`valley_of_the_war_horns.mp3`, im Spiel `musik_krieg.mp3`): blendet ein, sobald eigene Leute oder Gebäude kämpfen oder angegriffen werden; 20 s nach dem letzten Treffer zurück zur ruhigen Musik (das unterbrochene Lied läuft weiter)
 
-Nicht mehr im Spiel: „Before the Written Word“ → `09_Alt/before_the_written_word.mp3`
+Nicht mehr im Spiel: „Before the Written Word“ → `09_Alt/before_the_written_word.mp3`, „Crowns upon the Horizon“ (altes Menülied) → `09_Alt/crowns_upon_the_horizon.mp3`
