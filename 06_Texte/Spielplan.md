@@ -149,6 +149,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.87 – Bäume werden beim Heranzoomen nicht mehr ausgeblendet (bleiben immer stehen und lassen sich antippen)
 - [x] V1.88 – Mehr FPS in jeder Grafikstufe: geringere Grundauflösung (Niedrig 1×, Mittel 1,25×, Hoch 1,75×), automatische Auflösung (unter ~24 FPS wird mit weniger Bildpunkten gerechnet, bis 45 %, bei Bedarf ohne Schatten; wird wieder schärfer, wenn genug Luft ist), Tiere weit weg werden nicht animiert, Tier-Schatten nur auf Hoch
 - [x] V1.89 – Schulterperspektive schneller: Schatten nur jedes 4. Bild neu berechnet, kürzere Sichtweite mit Nebel (Niedrig/Mittel 105, Hoch 150)
+- [x] V1.90 – FPS-Paket (gemessen: Dreiecke pro Bild normal 878k → 525k, Schulterperspektive 809k → 459k, Schattenwerfer 1006 → 92): Golderz 16.700 → 1.800 Dreiecke auf Niedrig/Mittel, Tiere und Deko auf „Mittel“ in der schlanken Fassung (Gebäude voll), Büsche/Steine/Erz ohne eigene Schatten unter „Hoch“, Tiere weit weg nur jedes 4. Bild berechnet, Minikarte seltener und Rohstoffpunkte zwischengespeichert, Schulterperspektive: Gras nur nah, 80 % Auflösung auf Niedrig/Mittel
 - [ ] Später: Reiten in der Schulterperspektive (ab Pferden/Antike), Reiterkampf
 - [ ] Später: Handelskarren zu verbündeten Marktplätzen (Gold je nach Entfernung), Handelsschiffe; Tribut auch online zwischen Freunden (braucht M4); Hunde als Jagd-/Wach-/Kampfhunde (Antwort offen); Ochse zieht den Pflug ab Ackerbau
 
