@@ -146,6 +146,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.84 – Selbst steuern in der Schulterperspektive (Third Person): Knopf „Steuern“ bei einem Bauern oder Krieger; Handy: Joystick links, großer Knopf rechts (Arbeiten bzw. Angreifen), Rennen-Knopf, Wischen zum Umschauen; PC: WASD laufen, Leertaste/E arbeiten oder zuschlagen, Umschalt rennen, Maus umschauen, Esc zurück. Bauer arbeitet nur, wenn du es tust (Baum fällen, Steine, Gold, Beeren, Fischen, Jagen, Bauen und Reparieren), lädt am Lager automatisch ab; Krieger schlägt/schießt auf das, was vor ihm ist (Feinde, Tiere, feindliche Gebäude). Nach „Zurück“ bleibt die Figur stehen
 - [x] V1.85 – Rohstoffe oben mit Namen (Nahrung, Holz, Stein, Gold, Leute)
 - [x] V1.86 – Beim Selbststeuern verschwindet der Baum nicht mehr, den man fällt (Baumkronen werden nur noch ganz nah an der Kamera durchsichtig)
+- [x] V1.87 – Bäume werden beim Heranzoomen nicht mehr ausgeblendet (bleiben immer stehen und lassen sich antippen)
 - [ ] Später: Reiten in der Schulterperspektive (ab Pferden/Antike), Reiterkampf
 - [ ] Später: Handelskarren zu verbündeten Marktplätzen (Gold je nach Entfernung), Handelsschiffe; Tribut auch online zwischen Freunden (braucht M4); Hunde als Jagd-/Wach-/Kampfhunde (Antwort offen); Ochse zieht den Pflug ab Ackerbau
 
