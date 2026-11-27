@@ -2,8 +2,11 @@
 
 Echtzeit-Strategiespiel fürs Handy im Browser (Querformat). Der Spieler führt sein Volk von der Steinzeit bis in die Zukunft: Ressourcen sammeln, Basis bauen, Armee aufstellen, KI-Gegner besiegen.
 
-## Zivilisationen (nur Zivilisation wählen, kein Land)
-Osmanen, Römer, Griechen, Ägypter, Babylonier, Germanen, Briten, Franken, Wikinger, Mongolen, Chinesen, Japaner, Koreaner, Azteken, Inka, Maya, Russen, Zulu – jede mit eigenem Wappen und Vorteil.
+## Länder (30, gebietsabhängig)
+Man wählt ein heutiges Land; in jeder Epoche spielt man das Volk, das damals in diesem Gebiet lebte (Türkei: Çatalhöyük → Hethiter → Osmanen → Türkei; USA: Clovis-Jäger/Indianer → Siedler → USA). Wichtig ist das Gebiet, nicht die genaue Abstammung. In der Auswahl: Banner der Epoche, Name der Epoche, „→ heutiges Land“ und eine kleine heutige Flagge in der Ecke.
+Türkei, Italien, Griechenland, Ägypten, Irak, Deutschland, Großbritannien, Frankreich, Norwegen, Mongolei, China, Japan, Korea, Mexiko, Peru, Guatemala, Russland, Südafrika, Iran, Saudi-Arabien, Indien, Mali, Spanien, Portugal, Irland, Niederlande, Polen, USA, Australien, Brasilien.
+Aussehen ab der Antike über Kulturkreise (Westeuropa, Mittelmeer, Naher Osten, Ostasien, Amerika, Afrika/Ozeanien) plus 1–2 Spezialeinheiten je Land. Epochen werden nacheinander freigeschaltet, wenn ihre Meilensteine fertig sind.
+Siedlerländer (USA, Australien, Brasilien, Südafrika): Das Land steht für das Gebiet, nicht für Abstammung. Beim Wechsel in die Neuzeit nicht „Die Indianer werden zu Amerikanern“, sondern „Siedler gründen in deinem Gebiet die Vereinigten Staaten“ (entsprechend Australien, Brasilien, Südafrika). Keine neutralen Ureinwohner-Dörfer.
 
 ## Epochen (10)
 1. Steinzeit · 2. Antike · 3. Mittelalter · 4. Neuzeit · 5. Industriezeit · 6. Erster Weltkrieg · 7. Zweiter Weltkrieg · 8. Kalter Krieg · 9. Moderne · 10. Zukunft
@@ -157,6 +160,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.95 – 30 Länder statt 18 Völker: immer der heutige Name und die heutige Flagge (Türkei, Italien, Deutschland, USA …), neu: Iran, Saudi-Arabien, Indien, Mali, Spanien, Portugal, Irland, Niederlande, Polen, USA, Australien, Brasilien. Auswahl mit 30 Flaggen ohne Scrollen, darunter Bonus und Stil-Zeile je Epoche. Bis zu 29 Gegner, echte Startorte, eigene Farben, Meldungen mit richtiger Grammatik, alte Spielstände werden umgerechnet, alte Vorfahren-Banner für frühe Epochen aufgehoben
 - [x] V1.96 – Länderauswahl nach Epoche: In der Steinzeit heißen die Länder nach ihrer echten Kultur (Çatalhöyük → Türkei, Clovis-Jäger → USA, Bandkeramiker → Deutschland …) mit eigenem Fellbanner und echtem Steinzeit-Zeichen (Stierkopf, Clovis-Speerspitze, Steinkreis, Lascaux-Pferd …) statt moderner Flagge. Startepoche wählbar (Antike, Mittelalter, Neuzeit als Vorschau mit den Bannern der Zeit), im Spiel Name und Meldungen in der Epoche. Große Weltkarte als Fenster genau um die Karte, Legende daneben, gut sichtbares rotes X, Tippen daneben schließt. Baumenü mit rotem X zum Schließen. Fell-Banner ohne Ring-Fehler
 - [x] V1.97 – Startepoche als Auswahlfeld mit allen 10 Epochen (Steinzeit, Antike, Mittelalter, Neuzeit, Industriezeit, Erster Weltkrieg, Zweiter Weltkrieg, Kalter Krieg, Moderne, Zukunft) ohne Scrollen. Nur fertige Epochen sind wählbar, die anderen ausgegraut mit „bald“. Freischalten Schritt für Schritt nach Meilensteinen (im Code EPOCH_READY um 1 erhöhen)
+- [x] V1.98 – Länderauswahl: großes Banner der Epoche, oben rechts eine ganz kleine heutige Flagge (in allen Epochen). Infozeile zeigt den Weg des Gebiets mit Mini-Bannern (Çatalhöyük › Osmanen › Türkei, Clovis-Jäger › Sioux › USA), aktuelle Stufe hervorgehoben. Spielplan: Länder gebietsabhängig, Siedlerländer mit eigener Meldung beim Epochenwechsel, Kulturkreise ab der Antike, Epochen nach Meilensteinen freischalten
 - [ ] Später: Handelskarren zu verbündeten Marktplätzen (Gold je nach Entfernung), Handelsschiffe; Tribut auch online zwischen Freunden (braucht M4); Hunde als Jagd-/Wach-/Kampfhunde (Antwort offen); Ochse zieht den Pflug ab Ackerbau
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
