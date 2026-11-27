@@ -20,6 +20,10 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `aussenposten.glb` | Außenposten – Kriegerhütte-Variante, im Spiel | Original/aussenposten_original.glb – 18 MB |
 | `lagerfeuer.glb` | Lagerfeuer am Stadtzentrum, im Spiel | Original/lagerfeuer_original.glb – 2 MB |
 | – | Osterfeuer / zweites Lagerfeuer (nicht im Spiel) | Original/lagerfeuer_osterfeuer_original.glb – 2 MB |
+| `hornschaedel_huette.glb` | Hornschädel-Hütte – Wohnhaus-Variante, im Spiel seit V1.83 | Original/hornschaedel_huette_original.glb – 85 MB |
+| `fellunterstand.glb` | Fell-Unterstand – Marktplatz, im Spiel seit V1.83 | Original/fellunterstand_original.glb – 70 MB |
+| `zelt2.glb` | Zelt, zweite Fassung – Wohnhaus-Variante, im Spiel seit V1.83 | Original/zelt2_original.glb – 4 MB |
+| – | Haus der Zähne (noch einmal hochgeladen, gleich wie `zahnhaus_original`) | – |
 
 ## Zaeune
 
@@ -61,6 +65,22 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `pferd.glb` | Wildpferd (Jagd, 160 Nahrung), im Spiel | Original/pferd_original.glb – 1 MB |
 | `delfin.glb` | Delfin – springt im Meer, Schwimm-Skelett automatisch, im Spiel seit V1.36 | Original/delfin_original.glb – 32 MB |
 | `fisch.glb` | Fisch (Rohu) – Fischschwärme am Ufer (Nahrung) und frei schwimmend, Schwimm-Skelett automatisch, im Spiel seit V1.36 | Original/fisch_original.glb – 8 MB |
+| `schaf.glb` | Schaf (Europa/Asien, Jagd 140 Nahrung), automatisches Skelett, im Spiel seit V1.83 | Original/schaf_original.glb – 30 MB |
+| `wolf.glb` | Wolf – Rudel von 3–6 (Europa, Asien, Nordamerika), greift Menschen an, Jagd 70 Nahrung, im Spiel seit V1.83 | Original/wolf_original.glb – 86 MB |
+| `loewe.glb` | Löwe – Rudelführer, Löwenrudel in der afrikanischen Savanne, greift an, im Spiel seit V1.83 | Original/loewe_original.glb (in Teilen) – in 2 Teilen – 170 MB |
+| `loewe2.glb` | Löwe („Regal Lion“) – zweite Löwen-Fassung, im Spiel seit V1.83 | Original/loewe2_original.glb – 52 MB |
+| `loewin.glb` | Löwin („Leona“) – im Löwenrudel, im Spiel seit V1.83 | Original/loewin_original.glb – 15 MB |
+| `elefant.glb` | Elefant („Jungle Guardian“) – Herden in Afrika und Indien, wehrt sich wenn angegriffen, Jagd 700 Nahrung, im Spiel seit V1.83 | Original/elefant_original.glb – 42 MB |
+| `krokodil.glb` | Nilkrokodil – am Wasser in den Tropen, greift an, Wirbel-Skelett, im Spiel seit V1.83 | Original/krokodil_original.glb – 41 MB |
+| `gepard.glb` | Gepard („Silent Stride“) – Afrika, sehr schnell, Jagd, im Spiel seit V1.83 | Original/gepard_original.glb – 42 MB |
+| `schildkroete.glb` | Schildkröte – tropische Strände, langsam, Jagd, im Spiel seit V1.83 | Original/schildkroete_original.glb – 37 MB |
+| `stier.glb` | Auerochse („Golden Bull of the Plains“) – Wildrind in Europa/Asien, Herden, wehrt sich, Jagd 320 Nahrung, im Spiel seit V1.83 | Original/stier_original.glb – 38 MB |
+| `ochse.glb` | Ochse mit Glocken und Geschirr – Hilfstier: Sammelstelle bei den Bauern, trägt 60 zum Lager; später Pflug, im Spiel seit V1.83 | Original/ochse_original.glb – 63 MB |
+| `hund_schwarz.glb` | Schwarzer Hund („Desert Sentinel“) – Haustier im Dorf, im Spiel seit V1.83 | Original/hund_schwarz_original.glb – 32 MB |
+| `hund_berner.glb` | Berner Sennenhund – Haustier im Dorf, im Spiel seit V1.83 | Original/hund_berner_original.glb – 84 MB |
+| `hund_braunweiss.glb` | Braun-weißer Hund – Haustier im Dorf, im Spiel seit V1.83 | Original/hund_braunweiss_original.glb (in Teilen) – in 2 Teilen – 100 MB |
+| `katze.glb` | Katze („Curious Stride“) – Haustier in warmen Gegenden, im Spiel seit V1.83 | Original/katze_original.glb – 19 MB |
+| – | Goldener Hund („Golden Profile“) – Textur beim Export verloren (komplett schwarz), nicht im Spiel | Original/hund_golden_original.glb – 16 MB |
 
 ## Natur
 
@@ -69,6 +89,8 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `fels.glb` | Steinvorkommen (bis V1.45 im Spiel, seit V1.46 durch `monolith.glb` ersetzt) | Original/fels_original.glb – 8 MB |
 | `monolith.glb` | Steinbrocken und Steinvorkommen, im Spiel – seit V1.46 mit scharfer Textur (2048) | Original/monolith_original.glb – 83 MB |
 | `erz.glb` | Metall- und Goldvorkommen, im Spiel – seit V1.46 mit scharfer Textur (2048) | Original/erz_original.glb – 1 MB |
+| `buesche.glb` | Busch- und Blütensammlung („Bloom and Bush“) – Deko am Stadtzentrum, im Spiel seit V1.83 | Original/buesche_original.glb – 30 MB |
+| `blumen.glb` | Zauberhafte Gartenblumen – Deko am Stadtzentrum, im Spiel seit V1.83 | Original/blumen_original.glb – 5 MB |
 
 ## Deko
 
@@ -84,6 +106,7 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `fellgestell.glb` | Fell auf Holzrahmen, im Spiel | Original/fellgestell_original.glb – 49 MB |
 | `feuerstelle.glb` | Feuerstelle aus Lehm (für später) | Original/feuerstelle_original.glb (in 2 Teilen) – 137 MB |
 | – | Trockengestell für Fasern (nur Original, noch nicht verkleinert) | Original/trockengestell_original.glb (in 3 Teilen) – 224 MB |
+| `fischgestell.glb` | Sechs Fische auf Bambusgestell – Deko am Stadtzentrum, im Spiel seit V1.83 | Original/fischgestell_original.glb – 28 MB |
 
 ## Wasser
 
@@ -92,3 +115,5 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `schilfboot.glb` | Schilfboot (für alle Völker gleich, vorbereitet) | Original/schilfboot_original.glb – 65 MB |
 | `steg.glb` | Holzsteg / Anlegeplatz (vorbereitet) | Original/steg_original.glb – 24 MB |
 | `fischreuse.glb` | Fischreuse zum Fischfang (vorbereitet) | Original/fischreuse_original.glb (in 2 Teilen) – 160 MB |
+| `bullenhai.glb` | Bullenhai – schwimmt in warmen Meeren nahe der Oberfläche, im Spiel seit V1.83 | Original/bullenhai_original.glb – 20 MB |
+| `weisser_hai.glb` | Weißer Hai – gemäßigte Meere, im Spiel seit V1.83 | Original/weisser_hai_original.glb – 27 MB |
