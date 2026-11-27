@@ -137,6 +137,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.72 – Größenverhältnis: Menschen 20 % kleiner (ca. 1,7 m), Hütten 3,6 und Lager 4,3 breit – Türen passen zur Körpergröße, Pferd im richtigen Verhältnis
 - [x] V1.73 – Palisaden docken an die Enden bestehender Palisaden an (geschlossene Ecken); Baufortschrittsbalken kleiner, bei Palisaden nur über dem Stück, das gerade gebaut wird
 - [x] V1.74 – Mauertürme: Palisade antippen → „Türme einbauen“, alle 10 m ein Turm (Enden immer), Preis wie Wachturm je Turm, reichen die Rohstoffe nicht, werden so viele gebaut wie möglich; Türme schießen selbst Pfeile, Krieger darauf kämpfen mit. Tor: ca. 5 m breit (aus mehreren Stücken), zwei Flügel öffnen sich für eigene und verbündete Leute, bleiben für Feinde zu – Feinde greifen das Tor an
+- [x] V1.75 – Tor ca. 12 m breit; „X Türme einbauen“ zählt alle verbundenen Palisaden und zeigt Gesamtpreis, dazu „1 Turm hier“; Leben: Stadtzentrum 3000, Kriegerhütte 1500, Wachturm 1200, Tor 1000, Lager 700, Hütte 400, Palisade 300; Lebensbalken über beschädigten Gebäuden (auch feindlichen)
 
 ## Aussehen ab der Antike: Kulturkreise (wie Empire Earth 2)
 
