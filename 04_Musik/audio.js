@@ -10,22 +10,34 @@ let AC=null, master, musicBus, sfxBus, ambBus, reverb, noiseBuf;
 let mode=null, started=false;
 // Musik als MP3: Hauptmenü „Crowns upon the Horizon“, im Spiel „Before the Written Word“.
 // Nur noch diese beiden Lieder – die alte, selbst erzeugte Musik ist entfernt.
-const TRACKS = { theme: ()=>window.EE_MENU_MUSIC || 'musik_menue.mp3', calm: ()=>window.EE_GAME_MUSIC || 'musik_spiel.mp3' };
+// Im Spiel wechseln sich ruhige Lieder ab („The First Hearth“, „Paths beneath the Stone“ …),
+// bei Kämpfen blendet „Valley of the War Horns“ ein (V2.18).
+const TRACKS = { theme: ()=>window.EE_MENU_MUSIC || 'musik_menue.mp3', war: ()=>window.EE_WAR_MUSIC || 'musik_krieg.mp3' };
+// ruhige Lieder: „The First Hearth“, „Paths beneath the Stone“, „Where the River Bends“, „Foundations at Dawn“, „Before the First Stone“
+for(let i=1;i<=5;i++) TRACKS['r'+i] = ()=>(window.EE_CALM_MUSIC&&window.EE_CALM_MUSIC[i-1]) || 'musik_ruhig_'+i+'.mp3';
+// Eine Musik für alle Epochen: ruhige Lieder wechseln sich ab, bei Kämpfen die Kriegsmusik
+const LIST = { theme:['theme'], calm:['r1','r2','r3','r4','r5'], war:['war'] };
+let calmI = Math.floor(Math.random()*5), cur = null;   // jedes Spiel fängt mit einem anderen ruhigen Lied an   // aktuelles Lied
+const keyFor = m => m==='calm' ? LIST.calm[calmI % LIST.calm.length] : (LIST[m]||[m])[0];
 const trk = {};
 function track(m){
   if(!AC || !TRACKS[m]) return null;
   let t = trk[m]; if(t) return t.ok ? t.el : null;
   t = trk[m] = {ok:true, el:null};
   try{
-    const el = new Audio(TRACKS[m]()); el.loop = true; el.preload = 'auto';
+    const el = new Audio(TRACKS[m]()); el.loop = LIST.calm.indexOf(m)<0; el.preload = 'auto';
     el.addEventListener('error', ()=>{ t.ok=false; });
+    // ruhige Lieder: am Ende sanft zum nächsten
+    if(!el.loop) el.addEventListener('ended', ()=>{ if(mode!=='calm' || cur!==m) return; { const n=LIST.calm.length; let k=calmI; while(n>1 && k===calmI) k=Math.floor(Math.random()*n); calmI=k; } cur=keyFor('calm'); /* nächstes ruhiges Lied zufällig, nie zweimal hintereinander */ startTrack(cur); });
     const src = AC.createMediaElementSource(el), g = AC.createGain(); g.gain.value = m==='theme' ? 1.5 : 1.2;
     src.connect(g); g.connect(musicBus); t.el = el;
   }catch(e){ t.ok=false; }
   return t.ok ? t.el : null;
 }
 const hasTrack = m => trk[m] && trk[m].ok && trk[m].el;
-function startTrack(m){ const el=track(m); if(!el) return; try{ el.currentTime=0; }catch(e){} const p=el.play(); if(p&&p.catch) p.catch(()=>{ trk[m].ok=false; }); }
+function startTrack(m){ const el=track(m); if(!el){ if(LIST.calm.indexOf(m)>0 && mode==='calm'){ calmI=0; cur=LIST.calm[0]; startTrack(cur); } return; }
+  if(m!=='war' || el.ended) { try{ if(LIST.calm.indexOf(m)<0 || el.ended) el.currentTime=0; }catch(e){} }
+  const p=el.play(); if(p&&p.catch) p.catch(()=>{ trk[m].ok=false; }); }
 function stopTrack(m){ if(trk[m] && trk[m].el) trk[m].el.pause(); }
 const stopMenu = () => { for(const k in trk) stopTrack(k); };
 const mtof = m => 440*Math.pow(2,(m-69)/12);
@@ -47,7 +59,7 @@ function init(){
   noiseBuf = AC.createBuffer(1, AC.sampleRate*2, AC.sampleRate);
   const nd = noiseBuf.getChannelData(0); for(let i=0;i<nd.length;i++) nd[i]=Math.random()*2-1;
   startAmbient();
-  document.addEventListener('visibilitychange', ()=>{ if(!AC) return; if(document.hidden){ AC.suspend(); stopMenu(); } else { AC.resume(); if(hasTrack(mode)){ const p=trk[mode].el.play(); if(p&&p.catch) p.catch(()=>{}); } } });
+  document.addEventListener('visibilitychange', ()=>{ if(!AC) return; if(document.hidden){ AC.suspend(); stopMenu(); } else { AC.resume(); if(cur && hasTrack(cur)){ const p=trk[cur].el.play(); if(p&&p.catch) p.catch(()=>{}); } } });
 }
 function setVol(music, sfx, mute){
   if(!AC) return;
@@ -69,8 +81,9 @@ function play(m){
   if(!AC || m===mode) return;
   const t=AC.currentTime;
   if(mode){ musicBus.gain.cancelScheduledValues(t); const v=musicBus.gain.value; musicBus.gain.setValueAtTime(v,t); musicBus.gain.linearRampToValueAtTime(0.0001,t+1.2);
-    setTimeout(()=>{ stopTrack(mode); mode=m; startTrack(m); if(window.EE && EE.applyVol) EE.applyVol(); }, 1300); return; }
-  mode=m; startTrack(m);
+    const old=cur; mode=m; cur=keyFor(m);
+    setTimeout(()=>{ if(old) stopTrack(old); startTrack(cur); if(window.EE && EE.applyVol) EE.applyVol(); }, 1300); return; }
+  mode=m; cur=keyFor(m); startTrack(cur);
 }
 
 /* ---------- Geräusche ---------- */
@@ -83,6 +96,7 @@ function sfx(name, vol){
     case 'error': { const g=gain(0,B); env(g,t,.01,.25,.25); osc('square',140,t,.3,filt('lowpass',600,1,g)); osc('square',147,t,.3,filt('lowpass',600,1,g)); break; }
     case 'fanfare': { [67,72,76,79].forEach((m,i)=>{ const g=gain(0,B); env(g,t+i*.13,.02,.22,.55); const lp=filt('lowpass',2400,1,g); osc('sawtooth',mtof(m),t+i*.13,.6,lp,-5); osc('sawtooth',mtof(m),t+i*.13,.6,lp,5); });
       const g=gain(0,B); env(g,t,.005,.6,.7); const o=osc('sine',130,t,.8,g); o.frequency.exponentialRampToValueAtTime(50,t+.15); break; }
+    case 'bow': { const g=gain(0,B); env(g,t,.002,.28,.16); const o=osc('triangle',220,t,.18,g); o.frequency.exponentialRampToValueAtTime(90,t+.15); break; }   // Pfeil vom Turm
     case 'chop': { // Holz hacken
       const g=gain(0,B); env(g,t,.002,.7,.16); const o=osc('sine',210,t,.2,g); o.frequency.exponentialRampToValueAtTime(95,t+.08);
       const ng=gain(0,B); env(ng,t,.001,.55,.09); noise(t,.12,filt('bandpass',1300+Math.random()*300,1.4,ng)); break; }
@@ -92,6 +106,15 @@ function sfx(name, vol){
     case 'gold': { // Erz und Gold: metallisch
       [1650,2470,3300].forEach((f,i)=>{ const g=gain(0,B); env(g,t,.001,.18/(i+1),.35); osc('sine',f*(1+Math.random()*.02),t,.4,g); });
       const ng=gain(0,B); env(ng,t,.001,.35,.05); noise(t,.07,filt('highpass',3000,1,ng)); break; }
+    case 'step': { // Schritt auf Gras/Erde
+      const ng=gain(0,B); env(ng,t,.004,.22,.09); noise(t,.11,filt('lowpass',520+Math.random()*260,.8,ng));
+      const g=gain(0,B); env(g,t,.002,.12,.06); osc('sine',70+Math.random()*20,t,.08,g); break; }
+    case 'swing': { // Hieb durch die Luft
+      const ng=gain(0,B); ng.gain.setValueAtTime(0.0001,t); ng.gain.linearRampToValueAtTime(.35,t+.06); ng.gain.exponentialRampToValueAtTime(0.0001,t+.2);
+      const f=filt('bandpass',900,1.2,ng); f.frequency.setValueAtTime(500,t); f.frequency.exponentialRampToValueAtTime(2200,t+.15); noise(t,.22,f); break; }
+    case 'hit': { // Treffer
+      const g=gain(0,B); env(g,t,.001,.7,.14); const o=osc('triangle',180,t,.16,g); o.frequency.exponentialRampToValueAtTime(70,t+.1);
+      const ng=gain(0,B); env(ng,t,.001,.5,.06); noise(t,.08,filt('bandpass',1800,1,ng)); break; }
     case 'berry': { // Rascheln
       const ng=gain(0,B); ng.gain.setValueAtTime(0.0001,t); ng.gain.linearRampToValueAtTime(.3,t+.05); ng.gain.exponentialRampToValueAtTime(0.0001,t+.3);
       noise(t,.32,filt('highpass',3200,.6,ng)); break; }
