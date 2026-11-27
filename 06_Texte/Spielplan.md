@@ -148,6 +148,7 @@ Kronen (Wirtschaft, Krieg, Reich), regionale Kräfte, Territorien mit Grenzen, D
 - [x] V1.86 – Beim Selbststeuern verschwindet der Baum nicht mehr, den man fällt (Baumkronen werden nur noch ganz nah an der Kamera durchsichtig)
 - [x] V1.87 – Bäume werden beim Heranzoomen nicht mehr ausgeblendet (bleiben immer stehen und lassen sich antippen)
 - [x] V1.88 – Mehr FPS in jeder Grafikstufe: geringere Grundauflösung (Niedrig 1×, Mittel 1,25×, Hoch 1,75×), automatische Auflösung (unter ~24 FPS wird mit weniger Bildpunkten gerechnet, bis 45 %, bei Bedarf ohne Schatten; wird wieder schärfer, wenn genug Luft ist), Tiere weit weg werden nicht animiert, Tier-Schatten nur auf Hoch
+- [x] V1.89 – Schulterperspektive schneller: Schatten nur jedes 4. Bild neu berechnet, kürzere Sichtweite mit Nebel (Niedrig/Mittel 105, Hoch 150)
 - [ ] Später: Reiten in der Schulterperspektive (ab Pferden/Antike), Reiterkampf
 - [ ] Später: Handelskarren zu verbündeten Marktplätzen (Gold je nach Entfernung), Handelsschiffe; Tribut auch online zwischen Freunden (braucht M4); Hunde als Jagd-/Wach-/Kampfhunde (Antwort offen); Ochse zieht den Pflug ab Ackerbau
 
