@@ -39,3 +39,9 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `speer_eisenholz.glb` | Eisenholz-Speer | Original/speer_eisenholz_original.glb – 5 MB |
 | `speer_eisenzahn.glb` | Eisenzahn-Speer (Eisen) | Original/speer_eisenzahn_original.glb – 8 MB |
 | `holzschwert.glb` | Holzschwert | Original/holzschwert_original.glb – 1 MB |
+
+## Gebäude (nur gesichert, Spielfassung folgt mit der Antike)
+| Spiel-Fassung | Beschreibung | Meshy-Original |
+|---|---|---|
+| `Gebaeude/stall.glb` | Pferdestall aus Feldstein („Cobblestone Stables“) – Reiter | Gebaeude/Original/stall_original.glb (83 MB) |
+| `Gebaeude/scheune.glb` | Ziegel-Scheune („Rustic Brick Barn“) – Getreide, Felder | Gebaeude/Original/scheune_original.glb (10 MB) |

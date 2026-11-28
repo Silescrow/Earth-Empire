@@ -14,3 +14,5 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 |---|---|---|
 | – | Angel mit kleiner Rolle (Silent Angler) – moderne Angel, passt nicht in die Steinzeit | Original/angel_schlicht_original.glb – 9 MB |
 | – | Angel mit Rolle und Köder (Weathered Rod and Lure) – moderne Angel | Original/angel_rolle_original.glb – 15 MB |
+
+| `offener_unterstand.glb` | offener Holz-Unterstand (Meshy-Name nur eine Nummer, 20260910) – Verwendung noch offen | `Original/offener_unterstand_original.glb` (68 MB) |

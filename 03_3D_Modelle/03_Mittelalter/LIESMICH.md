@@ -23,3 +23,4 @@ Die Spiel-Fassungen sind ein erster Entwurf; wenn das Mittelalter gebaut wird, w
 |---|---|
 | `Gebaeude/Original/schmiede_original.glb` | Schmiede („Emberforge Workshop“, 42 MB) – Eisen/Metall verarbeiten |
 | `Gebaeude/Original/giesserei_original.glb` | Gießerei („Medieval Foundry“, 40 MB) – Metall gießen, Goldschmied |
+| `Gebaeude/haendler.glb` | Händlerhaus / Laden („fantasy shop building“) – Markt | `Gebaeude/Original/haendler_original.glb` (42 MB) |

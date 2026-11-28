@@ -139,3 +139,4 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `Waffen/steinaxt_2.glb` | Steinaxt („Stone Age Axe“) | Waffen/Original/steinaxt_2_original.glb |
 | `Waffen/steinaxt_3.glb` | Steinaxt („Stone axe 3D model“) | Waffen/Original/steinaxt_3_original.glb |
 | `Figuren/jaegerin.glb` | Jägerin („Ancient Huntress“) – Farbmodell für die Animation | Figuren/Original/jaegerin_original.glb |
+| `Gebaeude/viehgehege.glb` | Viehgehege mit Strohdach und Trog („Thatched Farm Pen“) – gezähmte Tiere, Nahrung | Gebaeude/Original/viehgehege_original.glb.teil1von2 + teil2von2 (110 MB) |
