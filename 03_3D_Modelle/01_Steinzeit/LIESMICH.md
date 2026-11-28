@@ -117,3 +117,9 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `fischreuse.glb` | Fischreuse zum Fischfang (vorbereitet) | Original/fischreuse_original.glb (in 2 Teilen) – 160 MB |
 | `bullenhai.glb` | Bullenhai – schwimmt in warmen Meeren nahe der Oberfläche, im Spiel seit V1.83 | Original/bullenhai_original.glb – 20 MB |
 | `weisser_hai.glb` | Weißer Hai – gemäßigte Meere, im Spiel seit V1.83 | Original/weisser_hai_original.glb – 27 MB |
+
+## Rohstoff-Werkstätten (neu, noch nicht im Spiel)
+| Spiel-Fassung | Beschreibung | Meshy-Original |
+|---|---|---|
+| `Gebaeude/foerster.glb` | Försterhaus („Thatchwood Workshop“) – pflanzt Bäume nach, 11.700 Dreiecke, Textur 2048 | Gebaeude/Original/foerster_original.glb.teil1von4 … teil4von4 (345 MB) |
+| `Gebaeude/steinmetz.glb` | Steinmetz-Werkstatt (Steine weiterverarbeiten), Textur 2048 | Gebaeude/Original/steinmetz_original.glb.teil1von2 + teil2von2 (115 MB) |

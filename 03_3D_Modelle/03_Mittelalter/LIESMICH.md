@@ -17,3 +17,9 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `moschee.glb` | Moschee im türkischen Baustil (Osmanen) – 27.600 Dreiecke, Textur 2048 | Original/moschee_original.glb – 68 MB, 1,8 Mio. Dreiecke |
 
 Die Spiel-Fassungen sind ein erster Entwurf; wenn das Mittelalter gebaut wird, werden sie noch einmal fürs Spiel feingeschliffen.
+
+## Werkstätten (nur Originale, Spiel-Fassung folgt, wenn das Mittelalter gebaut wird)
+| Datei | Beschreibung |
+|---|---|
+| `Gebaeude/Original/schmiede_original.glb` | Schmiede („Emberforge Workshop“, 42 MB) – Eisen/Metall verarbeiten |
+| `Gebaeude/Original/giesserei_original.glb` | Gießerei („Medieval Foundry“, 40 MB) – Metall gießen, Goldschmied |
