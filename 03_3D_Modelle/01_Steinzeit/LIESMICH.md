@@ -123,3 +123,11 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 |---|---|---|
 | `Gebaeude/foerster.glb` | Försterhaus („Thatchwood Workshop“) – pflanzt Bäume nach, 11.700 Dreiecke, Textur 2048 | Gebaeude/Original/foerster_original.glb.teil1von4 … teil4von4 (345 MB) |
 | `Gebaeude/steinmetz.glb` | Steinmetz-Werkstatt (Steine weiterverarbeiten), Textur 2048 | Gebaeude/Original/steinmetz_original.glb.teil1von2 + teil2von2 (115 MB) |
+
+## Weitere Hütten (für Wohnhäuser je Klima, noch nicht im Spiel)
+| Spiel-Fassung | Beschreibung | Meshy-Original |
+|---|---|---|
+| `Gebaeude/bambushuette.glb` | Bambus-Unterstand („Bamboo Shelter“) – Asien, Dschungel | Original/bambushuette_original.glb (60 MB) |
+| `Gebaeude/lehmhuette.glb` | Lehmhütte mit Herd („Earthen Hearth“) – trockene Gebiete | Original/lehmhuette_original.glb.teil1von2 + teil2von2 (144 MB) |
+| `Gebaeude/strohhuette.glb` | Strohdachhütte („Thatched Cottage“) – Europa | Original/strohhuette_original.glb.teil1von3 … teil3von3 (234 MB) |
+| `Gebaeude/tropenhuette.glb` | Tropen-Strohhütte („Tropical Thatched Haven“) – Afrika, Südamerika, Tropen | Original/tropenhuette_original.glb.teil1von3 … teil3von3 (245 MB) |
