@@ -140,3 +140,4 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `Waffen/steinaxt_3.glb` | Steinaxt („Stone axe 3D model“) | Waffen/Original/steinaxt_3_original.glb |
 | `Figuren/jaegerin.glb` | Jägerin („Ancient Huntress“) – Farbmodell für die Animation | Figuren/Original/jaegerin_original.glb |
 | `Gebaeude/viehgehege.glb` | Viehgehege mit Strohdach und Trog („Thatched Farm Pen“) – gezähmte Tiere, Nahrung | Gebaeude/Original/viehgehege_original.glb.teil1von2 + teil2von2 (110 MB) |
+| `Gebaeude/fischerhuette.glb` | Fischerhütte am Steg („Weathered Pier Shack“) – Fisch, später Boote | Gebaeude/Original/fischerhuette_original.glb (44 MB) |
