@@ -141,3 +141,4 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `Figuren/jaegerin.glb` | Jägerin („Ancient Huntress“) – Farbmodell für die Animation | Figuren/Original/jaegerin_original.glb |
 | `Gebaeude/viehgehege.glb` | Viehgehege mit Strohdach und Trog („Thatched Farm Pen“) – gezähmte Tiere, Nahrung | Gebaeude/Original/viehgehege_original.glb.teil1von2 + teil2von2 (110 MB) |
 | `Gebaeude/fischerhuette.glb` | Fischerhütte am Steg („Weathered Pier Shack“) – Fisch, später Boote | Gebaeude/Original/fischerhuette_original.glb (44 MB) |
+| `Deko/steinthron.glb` | Steinthron („Ancient Stone Throne“, Farbmodell) – Herrscher-/Ältestensitz, Kandidat fürs Heiligtum | Deko/Original/steinthron_original.glb.teil1von2 + teil2von2 (103 MB) |
