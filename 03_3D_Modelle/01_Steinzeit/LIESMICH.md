@@ -131,3 +131,11 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `Gebaeude/lehmhuette.glb` | Lehmhütte mit Herd („Earthen Hearth“) – trockene Gebiete | Original/lehmhuette_original.glb.teil1von2 + teil2von2 (144 MB) |
 | `Gebaeude/strohhuette.glb` | Strohdachhütte („Thatched Cottage“) – Europa | Original/strohhuette_original.glb.teil1von3 … teil3von3 (234 MB) |
 | `Gebaeude/tropenhuette.glb` | Tropen-Strohhütte („Tropical Thatched Haven“) – Afrika, Südamerika, Tropen | Original/tropenhuette_original.glb.teil1von3 … teil3von3 (245 MB) |
+
+## Weitere Waffen und Figuren (noch nicht im Spiel)
+| Spiel-Fassung | Beschreibung | Meshy-Original |
+|---|---|---|
+| `Waffen/speer_stein.glb` | Steinzeit-Speer mit Steinspitze („Stone Age Spear“) | Waffen/Original/speer_stein_original.glb |
+| `Waffen/steinaxt_2.glb` | Steinaxt („Stone Age Axe“) | Waffen/Original/steinaxt_2_original.glb |
+| `Waffen/steinaxt_3.glb` | Steinaxt („Stone axe 3D model“) | Waffen/Original/steinaxt_3_original.glb |
+| `Figuren/jaegerin.glb` | Jägerin („Ancient Huntress“) – Farbmodell für die Animation | Figuren/Original/jaegerin_original.glb |
