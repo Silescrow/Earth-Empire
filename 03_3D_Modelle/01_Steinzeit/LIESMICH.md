@@ -127,10 +127,10 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 ## Weitere Hütten (für Wohnhäuser je Klima, noch nicht im Spiel)
 | Spiel-Fassung | Beschreibung | Meshy-Original |
 |---|---|---|
-| `Gebaeude/bambushuette.glb` | Bambus-Unterstand („Bamboo Shelter“) – Asien, Dschungel | Original/bambushuette_original.glb (60 MB) |
-| `Gebaeude/lehmhuette.glb` | Lehmhütte mit Herd („Earthen Hearth“) – trockene Gebiete | Original/lehmhuette_original.glb.teil1von2 + teil2von2 (144 MB) |
-| `Gebaeude/strohhuette.glb` | Strohdachhütte („Thatched Cottage“) – Europa | Original/strohhuette_original.glb.teil1von3 … teil3von3 (234 MB) |
-| `Gebaeude/tropenhuette.glb` | Tropen-Strohhütte („Tropical Thatched Haven“) – Afrika, Südamerika, Tropen | Original/tropenhuette_original.glb.teil1von3 … teil3von3 (245 MB) |
+| `Gebaeude/haus_bambus.glb` | Bambus-Unterstand („Bamboo Shelter“) – Asien, Dschungel | Original/bambushuette_original.glb (60 MB) |
+| `Gebaeude/jaegerhuette.glb` | Jägerhütte (aus der Lehmhütte „Earthen Hearth“) – Sammelstelle Nahrung, +15 % | Original/lehmhuette_original.glb.teil1von2 + teil2von2 (144 MB) |
+| `Gebaeude/haus_stroh.glb` | Strohdachhütte („Thatched Cottage“) – Europa | Original/strohhuette_original.glb.teil1von3 … teil3von3 (234 MB) |
+| `Gebaeude/haus_tropen.glb` | Tropen-Strohhütte („Tropical Thatched Haven“) – Afrika, Südamerika, Tropen | Original/tropenhuette_original.glb.teil1von3 … teil3von3 (245 MB) |
 
 ## Weitere Waffen und Figuren (noch nicht im Spiel)
 | Spiel-Fassung | Beschreibung | Meshy-Original |
@@ -142,3 +142,6 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `Gebaeude/viehgehege.glb` | Viehgehege mit Strohdach und Trog („Thatched Farm Pen“) – gezähmte Tiere, Nahrung | Gebaeude/Original/viehgehege_original.glb.teil1von2 + teil2von2 (110 MB) |
 | `Gebaeude/fischerhuette.glb` | Fischerhütte am Steg („Weathered Pier Shack“) – Fisch, später Boote | Gebaeude/Original/fischerhuette_original.glb (44 MB) |
 | `Deko/steinthron.glb` | Steinthron („Ancient Stone Throne“, Farbmodell) – Herrscher-/Ältestensitz, Kandidat fürs Heiligtum | Deko/Original/steinthron_original.glb.teil1von2 + teil2von2 (103 MB) |
+
+
+**Seit V2.30 im Spiel:** Försterhaus, Steinmetz, Jägerhütte, Fischerhütte, Viehgehege, Heiligtum (Steinthron + Steinkreis), Wohnhäuser je Klima (Bambus = Asien, Stroh = Europa, Tropen = Tropen/Dschungel). Spielfassungen jetzt als dichte Farbmodelle (≈30.000 Dreiecke, keine Flecken).
