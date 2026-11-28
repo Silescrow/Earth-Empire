@@ -235,3 +235,7 @@ Ein gemeinsames **Silescrow ID**-Konto (Firebase-Projekt silescrow-cup) für all
 - [ ] Moderne/Zukunft: Schiebetore statt Flügeltore
 - [ ] Torbreite wächst mit den Epochen – später passen mehrere Panzer nebeneinander durch
 - [ ] Belagerung einer Burg: Feinde müssen Tore und Türme zerstören
+
+## Tag und Nacht (V2.31)
+- [x] Tag- und Nachtwechsel: ein Spieltag = 12 Minuten (9 Min. hell 6–20 Uhr, 3 Min. Nacht), Sonne wandert, Abendrot, Mondlicht, Sterne, Lagerfeuer werfen nachts Lichtkreise, Uhrzeit oben rechts; in den Einstellungen abschaltbar
+- [x] Third-Person nur noch Mitlaufen mit der Kamera, Selbststeuern abgeschaltet
