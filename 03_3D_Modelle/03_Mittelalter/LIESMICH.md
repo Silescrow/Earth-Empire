@@ -24,3 +24,10 @@ Die Spiel-Fassungen sind ein erster Entwurf; wenn das Mittelalter gebaut wird, w
 | `Gebaeude/Original/schmiede_original.glb` | Schmiede („Emberforge Workshop“, 42 MB) – Eisen/Metall verarbeiten |
 | `Gebaeude/Original/giesserei_original.glb` | Gießerei („Medieval Foundry“, 40 MB) – Metall gießen, Goldschmied |
 | `Gebaeude/haendler.glb` | Händlerhaus / Laden („fantasy shop building“) – Markt | `Gebaeude/Original/haendler_original.glb` (42 MB) |
+
+## Aus der Steinzeit hierher verschoben (Bretter/Planken = Mittelalter)
+| Spiel-Fassung | Beschreibung | Meshy-Original |
+|---|---|---|
+| `Gebaeude/foerster.glb` | Försterhaus („Thatchwood Workshop“) | Gebaeude/Original/foerster_original.glb.teil1von4 … teil4von4 (345 MB) |
+| `Gebaeude/steinmetz.glb` | Steinmetz-Werkstatt („settlers stonemason“) | Gebaeude/Original/steinmetz_original.glb.teil1von2 + teil2von2 (115 MB) |
+| `Gebaeude/fischerhuette.glb` | Fischerhütte am Steg („Weathered Pier Shack“) | Gebaeude/Original/fischerhuette_original.glb (44 MB) |

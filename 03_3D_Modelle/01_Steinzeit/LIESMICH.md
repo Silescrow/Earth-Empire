@@ -121,8 +121,6 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 ## Rohstoff-Werkstätten (neu, noch nicht im Spiel)
 | Spiel-Fassung | Beschreibung | Meshy-Original |
 |---|---|---|
-| `Gebaeude/foerster.glb` | Försterhaus („Thatchwood Workshop“) – pflanzt Bäume nach, 11.700 Dreiecke, Textur 2048 | Gebaeude/Original/foerster_original.glb.teil1von4 … teil4von4 (345 MB) |
-| `Gebaeude/steinmetz.glb` | Steinmetz-Werkstatt (Steine weiterverarbeiten), Textur 2048 | Gebaeude/Original/steinmetz_original.glb.teil1von2 + teil2von2 (115 MB) |
 
 ## Weitere Hütten (für Wohnhäuser je Klima, noch nicht im Spiel)
 | Spiel-Fassung | Beschreibung | Meshy-Original |
@@ -140,8 +138,10 @@ Jedes Modell liegt zweimal vor: die **Spiel-Fassung** (fürs Handy verkleinert) 
 | `Waffen/steinaxt_3.glb` | Steinaxt („Stone axe 3D model“) | Waffen/Original/steinaxt_3_original.glb |
 | `Figuren/jaegerin.glb` | Jägerin („Ancient Huntress“) – Farbmodell für die Animation | Figuren/Original/jaegerin_original.glb |
 | `Gebaeude/viehgehege.glb` | Viehgehege mit Strohdach und Trog („Thatched Farm Pen“) – gezähmte Tiere, Nahrung | Gebaeude/Original/viehgehege_original.glb.teil1von2 + teil2von2 (110 MB) |
-| `Gebaeude/fischerhuette.glb` | Fischerhütte am Steg („Weathered Pier Shack“) – Fisch, später Boote | Gebaeude/Original/fischerhuette_original.glb (44 MB) |
 | `Deko/steinthron.glb` | Steinthron („Ancient Stone Throne“, Farbmodell) – Herrscher-/Ältestensitz, Kandidat fürs Heiligtum | Deko/Original/steinthron_original.glb.teil1von2 + teil2von2 (103 MB) |
 
 
 **Seit V2.30 im Spiel:** Försterhaus, Steinmetz, Jägerhütte, Fischerhütte, Viehgehege, Heiligtum (Steinthron + Steinkreis), Wohnhäuser je Klima (Bambus = Asien, Stroh = Europa, Tropen = Tropen/Dschungel). Spielfassungen jetzt als dichte Farbmodelle (≈30.000 Dreiecke, keine Flecken).
+
+
+**Verschoben ins Mittelalter (V2.31):** Försterhaus („Thatchwood Workshop“), Steinmetz („settlers stonemason“) und Fischerhütte („Weathered Pier Shack“) haben gesägte Bretter – passt nicht zur Steinzeit. Im Spiel bleiben sie Platzhalter, bis Steinzeit-Fassungen (ohne Bretter/Nägel) kommen.
